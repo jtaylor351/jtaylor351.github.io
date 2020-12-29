@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a masters student in computer science at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/) and I recently applied to PhD programs :)
+I'm a masters student in computer science at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/). I also recently applied to PhD programs :)
 
 My research interests lie at the intersection of social computing and marginalized communities. In particular, I'm passionate about supporting the queer community and those living with stigmatized mental illnesses, such as substance use disorder. My current research involves using online communities to characterize opioid misuse experiences.
 
@@ -18,11 +18,13 @@ My research interests lie at the intersection of social computing and marginaliz
 1. **Identity:** Understanding the impact of social computing systems on identity development, norm formation, and intracommunity marginalization both online and offline
 1. **Design Justice:** Centering marginalized groups within the LGBTQ+ community to advocate for changes to existing queer social computing systems and to design new ones -->
 
-Prior to my masters, I received a BS in computer science from Georgia Tech concentrating on theoretical computer science and AI. My hobbies include running, vegetarian cooking, \[dance \| folk \| post\] punk music, and complaining about Grindr at both the amateur and professional level.
+Prior to my masters, I received a B.S. in computer science from Georgia Tech concentrating on theoretical computer science and AI.
 
 **Research Interests**: Social Computing, Wellbeing, Human-Computer Interaction, Computational Social Science, Marginalized Communities, LGBTQ+ Communities, Intracommunity Marginalization, Anonymity & Self-Disclosure 
 
 **Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science
+
+**Hobbies**: Running, Hiking, Vegetarian Cooking, and Punk Music
 
 Publications
 ------
@@ -40,6 +42,7 @@ Industry Experience
 | Systems & Technology Research| Intern  (Analysis & Decision Systems) | Fall 2018 |
 | NASA JPL| Systems Engineer Intern  (Model-Based Systems Engineering) | Summer 2018 |
 
+
 Teaching Experience
 ------
 
@@ -48,6 +51,22 @@ Teaching Experience
 | Georgia Tech | CS 1100: Freshman Leap Seminar | Teaching Assistant | Fall 2019 |
 | Georgia Tech | Center for Academic Success | Tutor | Spring 2017, Summer 2017,<br />Fall 2017, Spring 2018 |
 | Georgia Tech | College of Computing | Tutor | Fall 2017 |
+
+
+Talks & Panels
+------
+
+| :--- | :--- | ---:|
+| Georgia Tech <br />Pride Alliance<br />Alumni Panel | Panelist | September 2020 |
+| Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/133472367925868/?active_tab=discussion) | Moderator | March 2020 |
+| Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/587687232076839/?active_tab=discussion) | Moderator | February 2020 |
+| Georgia Tech <br />CS 1100<br />Alumni & Graduating Senior Panel | Panelist | November 2019 |
+| Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/2559127140977182/?active_tab=discussion) | Moderator | November 2019 |
+| Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/2002294706536329) | Moderator | March 2019 |
+| Georgia Tech <br />Pride Alliance & CS + Social Good<br />[LGBT+ at Google](https://www.facebook.com/events/543889726126066/) | Moderator | January 2019 |
+| Georgia Tech <br />CS + Social Good<br />[Diversity in Tech Panel](https://www.facebook.com/events/1544777462225144/) | Moderator | April 2018 |
+
+
 
 CV
 ------
