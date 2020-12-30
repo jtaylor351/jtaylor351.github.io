@@ -71,5 +71,5 @@ Talks & Panels
 CV
 ------
 
-Updated [CV](https://drive.google.com/file/d/1AtCSz054ip_X7qBxPfyb2VI6se34oM6Z/view?usp=sharing) (last edited Dec 2020)
 
+Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1AtCSz054ip_X7qBxPfyb2VI6se34oM6Z/view?usp=sharing">CV</a> (last edited Dec 2020)
