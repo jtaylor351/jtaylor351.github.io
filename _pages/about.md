@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a Masters student in computer science at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/). I also recently applied to PhD programs :)
+I'm a Masters student in computer science at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/). I also recently applied to PhD programs!
 
 My research interests lie at the intersection of social computing and marginalized communities. In particular, I'm passionate about supporting the queer community and those living with stigmatized mental illnesses, such as substance use disorder. My current research involves using online communities to characterize opioid misuse experiences.
 
