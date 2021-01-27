@@ -47,7 +47,7 @@ Teaching Experience
 ------
 
 | :------ | :--- | :--- | ---:|
-| Georgia Tech | CS 3600: Intro to AI | Teaching Assistant | Spring 2020, Fall 2020 |
+| Georgia Tech | CS 3600: Intro to AI | Teaching Assistant | Spring 2020, Fall 2020, Spring 2021 |
 | Georgia Tech | CS 1100: Freshman Leap Seminar | Teaching Assistant | Fall 2019 |
 | Georgia Tech | Center for Academic Success | Tutor | Spring 2017, Summer 2017,<br />Fall 2017, Spring 2018 |
 | Georgia Tech | College of Computing | Tutor | Fall 2017 |
@@ -57,6 +57,7 @@ Talks & Panels
 ------
 
 | :--- | :--- | ---:|
+| Georgia Tech <br />[Career, Research, and Innovation Development Conference](https://www.grad.gatech.edu/cridc) | Panelist | February 2021 |
 | Georgia Tech <br />Pride Alliance<br />Alumni Panel | Panelist | September 2020 |
 | Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/133472367925868/?active_tab=discussion) | Moderator | March 2020 |
 | Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/587687232076839/?active_tab=discussion) | Moderator | February 2020 |
@@ -72,4 +73,4 @@ CV
 ------
 
 
-Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1AtCSz054ip_X7qBxPfyb2VI6se34oM6Z/view?usp=sharing">CV</a> (last edited Dec 2020)
+Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1AtCSz054ip_X7qBxPfyb2VI6se34oM6Z/view?usp=sharing">CV</a> (last edited Jan 2021)
