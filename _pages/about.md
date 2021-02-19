@@ -11,7 +11,13 @@ redirect_from:
 
 I'm a Masters student in computer science at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/). I also recently applied to PhD programs!
 
-My research interests lie at the intersection of social computing and marginalized communities. In particular, I'm passionate about supporting the queer community and those living with stigmatized mental illnesses, such as substance use disorder. My current research involves using online communities to characterize opioid misuse experiences.
+My research interests lie at the intersection of social computing and marginalized communities. In particular, I'm passionate about supporting the queer community. 
+
+Ongoing work: 
+1. Using online communities to characterize opioid misuse experiences
+2. Characterizing LGBTQ+ information seeking practices on Reddit
+3. [Fat](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) justice in online communities
+4. Housing justice in Atlanta
 
 <!-- Themes:
 1. **Public Health:** Applying quantitative methods to online communities to understand the experiences of people with marginalized and stigmatized identities to inform public health decision making
@@ -20,9 +26,9 @@ My research interests lie at the intersection of social computing and marginaliz
 
 Prior to my masters, I received a B.S. in computer science from Georgia Tech concentrating on theoretical computer science and AI.
 
-**Research Interests**: Social Computing, Wellbeing, Human-Computer Interaction, Computational Social Science, Marginalized Communities, LGBTQ+ Communities, Intracommunity Marginalization, Anonymity & Self-Disclosure 
+**Research Interests**: Social Computing, Wellbeing, Human-Computer Interaction, Computational Social Science, Marginalized Communities, LGBTQ+ Communities, Fat Studies, Anonymity & Self-Disclosure 
 
-**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science
+**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviewing, and Participatory Design
 
 **Hobbies**: Running, Hiking, Vegetarian Cooking, and Punk Music
 
