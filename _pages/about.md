@@ -13,12 +13,6 @@ I'm a Masters student in computer science at Georgia Tech advised by [Dr. Munmun
 
 My research interests lie at the intersection of social computing and marginalized communities. In particular, I'm passionate about supporting the queer community. 
 
-**Ongoing work:**
-1. Using online communities to characterize opioid misuse experiences
-2. Characterizing LGBTQ+ information seeking practices on Reddit
-3. [Fat](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) justice in online communities
-4. Housing justice in Atlanta
-
 <!-- Themes:
 1. **Public Health:** Applying quantitative methods to online communities to understand the experiences of people with marginalized and stigmatized identities to inform public health decision making
 1. **Identity:** Understanding the impact of social computing systems on identity development, norm formation, and intracommunity marginalization both online and offline
@@ -29,6 +23,12 @@ My research interests lie at the intersection of social computing and marginaliz
 **Research Interests**: Social Computing, Wellbeing, Human-Computer Interaction, Computational Social Science, Marginalized Communities, LGBTQ+ Communities, Fat Studies, Anonymity & Self-Disclosure 
 
 **Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviewing, and Participatory Design
+
+**Ongoing work:**
+1. Using online communities to characterize opioid misuse experiences
+2. Characterizing LGBTQ+ information seeking practices on Reddit
+3. [Fat](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) justice in online communities
+4. Housing justice in Atlanta
 
 **Hobbies**: Running, Hiking, Vegetarian Cooking, and Punk Music
 
