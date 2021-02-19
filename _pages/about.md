@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I'm a Masters student in computer science at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/). I also recently applied to PhD programs!
+I'm a Masters student in computer science at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/). Prior to my masters, I received a B.S. in computer science from Georgia Tech concentrating on theoretical computer science and AI. I also recently applied to PhD programs!
 
 My research interests lie at the intersection of social computing and marginalized communities. In particular, I'm passionate about supporting the queer community. 
 
-Ongoing work: 
+**Ongoing work:**
 1. Using online communities to characterize opioid misuse experiences
 2. Characterizing LGBTQ+ information seeking practices on Reddit
 3. [Fat](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) justice in online communities
@@ -24,7 +24,7 @@ Ongoing work:
 1. **Identity:** Understanding the impact of social computing systems on identity development, norm formation, and intracommunity marginalization both online and offline
 1. **Design Justice:** Centering marginalized groups within the LGBTQ+ community to advocate for changes to existing queer social computing systems and to design new ones -->
 
-Prior to my masters, I received a B.S. in computer science from Georgia Tech concentrating on theoretical computer science and AI.
+
 
 **Research Interests**: Social Computing, Wellbeing, Human-Computer Interaction, Computational Social Science, Marginalized Communities, LGBTQ+ Communities, Fat Studies, Anonymity & Self-Disclosure 
 
