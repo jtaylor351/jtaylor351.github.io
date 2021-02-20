@@ -27,7 +27,7 @@ My research interests lie at the intersection of social computing and marginaliz
 **Ongoing work:**
 1. Using online communities to characterize opioid misuse experiences
 2. Characterizing LGBTQ+ information seeking practices on Reddit
-3. [Fat](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) justice in online communities
+3. [Fat justice](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) in online communities
 4. Housing justice in Atlanta
 
 **Hobbies**: Running, Hiking, Vegetarian Cooking, and Punk Music
