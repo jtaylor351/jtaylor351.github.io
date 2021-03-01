@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I'm a Masters student in computer science at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/). Prior to my masters, I received a B.S. in computer science from Georgia Tech concentrating on theoretical computer science and AI. I'm going to Carnegie Mellon for an HCI PhD this fall!
+I'm a Masters student in computer science at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/). Prior to my masters, I received a B.S. in computer science from Georgia Tech concentrating on theoretical computer science and AI. 
+
+In the fall, I'm going to Carnegie Mellon a PhD in HCI!
 
 My research interests lie at the intersection of social computing and marginalized communities. In particular, I'm passionate about supporting the queer community. 
 
