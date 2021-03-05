@@ -54,7 +54,7 @@ Industry Experience
 
 Teaching Experience
 ------
-| University | Course or Employer | Role | Semester|
+| University | Course / Employer | Role | Semester|
 | :------ | :--- | :--- | ---:|
 | Georgia Tech | CS 3600: Intro to AI | Teaching Assistant | Spring 2020, Fall 2020, Spring 2021 |
 | Georgia Tech | CS 1100: Freshman Leap Seminar | Teaching Assistant | Fall 2019 |
