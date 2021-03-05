@@ -43,6 +43,7 @@ Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Dan
 Industry Experience
 ------
 
+| Employer | Role | Semester |
 | :--- | :-- | ---:|
 | Facebook| Software Engineer Intern | Summer 2021 |
 | Facebook| Software Engineer Intern  (Messenger Business Ranking) | Summer 2020 |
@@ -53,7 +54,7 @@ Industry Experience
 
 Teaching Experience
 ------
-
+| University | Course or Employer | Role | Semester |
 | :------ | :--- | :--- | ---:|
 | Georgia Tech | CS 3600: Intro to AI | Teaching Assistant | Spring 2020, Fall 2020, Spring 2021 |
 | Georgia Tech | CS 1100: Freshman Leap Seminar | Teaching Assistant | Fall 2019 |
@@ -64,6 +65,7 @@ Teaching Experience
 Talks & Panels
 ------
 
+| Event | Role | Date |
 | :--- | :--- | ---:|
 | Georgia Tech <br />[Career, Research, and Innovation Development Conference](https://www.grad.gatech.edu/cridc) | Panelist | February 2021 |
 | Georgia Tech <br />Pride Alliance<br />Alumni Panel | Panelist | September 2020 |
@@ -81,4 +83,4 @@ CV
 ------
 
 
-Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1AtCSz054ip_X7qBxPfyb2VI6se34oM6Z/view?usp=sharing">CV</a> (last edited Jan 2021)
+Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1AtCSz054ip_X7qBxPfyb2VI6se34oM6Z/view?usp=sharing">CV</a> (last edited March 2021)
