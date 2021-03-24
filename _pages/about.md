@@ -44,6 +44,12 @@ Publications
 Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, **Jordan Taylor**, Chaitanya Konjeti, Munmun De Choudhury. *Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities*. (2020). JAMA Network Open.  ([Open Access Link](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2774462))
 
 
+Press
+------
+
+[Recode](https://www.vox.com/recode/2020/2/24/21150196/twitter-reddit-suicide-cdc-artificial-intelligence), How researchers are using Reddit and Twitter data to forecast suicide rates, 2020
+
+
 Industry Experience
 ------
 
