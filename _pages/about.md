@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 
-I'm a Masters student in computer science at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/). Prior to my masters, I received a B.S. in computer science from Georgia Tech concentrating on theoretical computer science and AI.
+I'm a M.S. Computer Science student at Georgia Tech advised by [Dr. Munmun De Choudhury](http://www.munmund.net/). Prior to my masters, I received a B.S. in Computer Science from Georgia Tech concentrating on theoretical computer science and AI.
 
 I'm starting a PhD in Human Computer Interaction at Carnegie Mellon this fall!
 
 My research interests lie at the intersection of social computing, identity, and marginalized communities (in particular queer and fat communities).
 
-I'm also interested in the politics of method: which forms of knowledge production do different audiences value, and how can that inform method selection for effective advocacy?
+I'm also interested in the politics of methods: which forms of knowledge production do different audiences value, and how can that inform method selection for effective advocacy?
 
-I hope to empower marginalized communities through my research.
+Social media plays a critical role in the lives of LGBTQ+ people, but these platforms don't work for everyone. By centering marginalized voices and studying social media, I hope to design better healthcare, social computing, and algorithmic systems through my research.
 
 <!-- Themes:
 1. **Public Health:** Applying quantitative methods to online communities to understand the experiences of people with marginalized and stigmatized identities to inform public health decision making
