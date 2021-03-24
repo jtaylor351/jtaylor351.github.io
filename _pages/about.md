@@ -13,7 +13,7 @@ I'm a Masters student in computer science at Georgia Tech advised by [Dr. Munmun
 
 I'm starting a PhD in Human Computer Interaction at Carnegie Mellon this fall!
 
-My research interests lie at the intersection of social computing, identity, and marginalized communities (in particular queer and fat communities). 
+My research interests lie at the intersection of social computing, identity, and marginalized communities (in particular queer and fat communities), and I hope to empower marginalized communities through my research.
 
 I'm also interested in the politics of method: which forms of knowledge production do different audiences value, and how can that inform method selection?
 
