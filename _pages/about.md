@@ -11,7 +11,7 @@ redirect_from:
 
 I'm starting a PhD in Human Computer Interaction at Carnegie Mellon this fall! 
 
-I also received an M.S. and B.S. in Computer Science from Georgia Tech where I worked with [Dr. Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
+I recently graduated with an M.S. in Computer Science from Georgia Tech where I also went for my B.S. While at Georgia Tech, I worked with [Dr. Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
 
 My research interests lie at the intersection of social computing, identity, and marginalized communities (in particular queer and fat communities).
 
