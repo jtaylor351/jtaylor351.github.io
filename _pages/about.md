@@ -8,32 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-
 I'm starting a PhD in Human Computer Interaction at Carnegie Mellon this fall! 
 
-I recently graduated with an M.S. in Computer Science from Georgia Tech where I also went for my B.S. While at Georgia Tech, I worked with [Dr. Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
+I recently graduated with an M.S. in Computer Science from Georgia Tech where I also went for my B.S. While at Georgia Tech, I worked with [Dr. Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/) :)
 
-My research interests lie at the intersection of social computing, identity, and marginalized communities (in particular queer and fat communities).
+My research interests lie at the intersection of social computing, identity, and marginalized communities (particularly queer and fat communities).
 
 I'm also interested in the politics of methods: which forms of knowledge production do different audiences value, and how can that inform method selection for effective advocacy?
 
-We know that social media plays a critical role in the lives of LGBTQ+ people, but these platforms don't work for everyone. By centering marginalized voices and studying social media, I hope to design better healthcare, social computing, and algorithmic systems through my research.
+**Research Interests**: Social Computing, Identity, Human-Computer Interaction, Computational Social Science, Marginalized Communities, LGBTQ+ Communities, Fat Studies, Anonymity & Self-Disclosure
 
-<!-- Themes:
-1. **Public Health:** Applying quantitative methods to online communities to understand the experiences of people with marginalized and stigmatized identities to inform public health decision making
-1. **Identity:** Understanding the impact of social computing systems on identity development, norm formation, and intracommunity marginalization both online and offline
-1. **Design Justice:** Centering marginalized groups within the LGBTQ+ community to advocate for changes to existing queer social computing systems and to design new ones -->
-
-
-**Research Interests**: Social Computing, Wellbeing, Human-Computer Interaction, Computational Social Science, Marginalized Communities, LGBTQ+ Communities, Fat Studies, Anonymity & Self-Disclosure 
-
-**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviewing, and Participatory Design
+**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Digital Ethnography and Participatory Design
 
 **Ongoing work:**
-1. Using online communities to characterize opioid misuse experiences
-2. Characterizing LGBTQ+ information seeking practices on Reddit
+1. Bisexual identity work in online comumunities
+2. Characterizing GBQ information seeking practices in online communities
 3. [Fat justice](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) in online communities
-4. Housing justice in Atlanta
 
 **Hobbies**: Running, Hiking, Vegetarian Cooking, and Punk Music
 
@@ -54,7 +44,7 @@ Industry Experience
 
 | Employer | Role | Semester |
 | :--- | :-- | ---:|
-| Facebook| Software Engineer Intern (Natural Language Understanding on the Assistant Team in Facebook Reality Labs) | Summer 2021 |
+| Facebook| Software Engineer Intern (Natural Language Understanding at Facebook Reality Labs) | Summer 2021 |
 | Facebook| Software Engineer Intern  (Messenger Business Ranking) | Summer 2020 |
 | Google| Software Engineer Intern  (Dynamic Ad Insertion) | Summer 2019 |
 | Systems & Technology Research| Intern  (Analysis & Decision Systems) | Fall 2018 |
