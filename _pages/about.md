@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm starting a PhD in Human Computer Interaction at Carnegie Mellon this fall! 
+My name is Jordan (he/him) and I'm a first-year PhD student in Human Computer Interaction at Carnegie Mellon :)
 
-I recently graduated with an M.S. in Computer Science from Georgia Tech where I also went for my B.S. While at Georgia Tech, I worked with [Dr. Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/) :)
+Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Dr. Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
 
-My research interests lie at the intersection of social computing, identity, and marginalized communities (particularly queer and fat communities).
+My research interests lie at the intersection of critical social computing, identity, knowledge construction and marginalized communities (particularly queer and fat communities).
 
 I'm also interested in the politics of methods: which forms of knowledge production do different audiences value, and how can that inform method selection for effective advocacy?
 
@@ -21,9 +21,8 @@ I'm also interested in the politics of methods: which forms of knowledge product
 **Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Digital Ethnography and Participatory Design
 
 **Ongoing work:**
-1. Bisexual identity work in online comumunities
-2. Characterizing GBQ information seeking practices in online communities
-3. [Fat justice](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) in online communities
+1. Characterizing GBQ information seeking practices in online communities
+2. [Fat justice](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) in online communities
 
 **Hobbies**: Running, Hiking, Vegetarian Cooking, and Punk Music
 
