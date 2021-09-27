@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jordan (he/him) and I'm a first-year PhD student in Human Computer Interaction at Carnegie Mellon :)
+My name is Jordan (he/him) and I'm a first-year PhD student in Human Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) :)
 
 Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Dr. Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
 
@@ -18,7 +18,7 @@ I'm also interested in the politics of methods: which forms of knowledge product
 
 **Research Interests**: Social Computing, Identity, Human-Computer Interaction, Computational Social Science, Marginalized Communities, LGBTQ+ Communities, Fat Studies, Anonymity & Self-Disclosure
 
-**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Digital Ethnography and Participatory Design
+**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Participant Observation and Participatory Design
 
 **Ongoing work:**
 1. Characterizing GBQ information seeking practices in online communities
@@ -66,6 +66,7 @@ Talks & Panels
 
 | Event | Role | Date |
 | :--- | :--- | ---:|
+| Carnegie Mellon <br />Fairness, Equity, Accountability, and Transparency Reading Group | Presented and Led Discussions on ["Modeling Assumptions Clash with the Real World: Transparency, Equity, and Community Challenges for Student Assignment Algorithms"](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445748) | September 2021 |
 | Georgia Tech <br />[Career, Research, and Innovation Development Conference](https://www.grad.gatech.edu/cridc) | Panelist | February 2021 |
 | Georgia Tech <br />Pride Alliance<br />Alumni Panel | Panelist | September 2020 |
 | Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/133472367925868/?active_tab=discussion) | Moderator | March 2020 |
