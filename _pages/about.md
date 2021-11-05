@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Jordan (he/him) and I'm a first-year PhD student in Human Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) :)
 
-Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Dr. Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
+Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
 
 My research interests lie at the intersection of critical social computing, identity, knowledge construction and marginalized communities (particularly queer and fat communities).
 
@@ -20,7 +20,7 @@ I'm also interested in the politics of methods: which forms of knowledge product
 
 **Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Participant Observation and Participatory Design
 
-**Ongoing work:**
+**Ongoing Work:**
 1. Characterizing GBQ information seeking practices in online communities
 2. [Fat justice](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) in online communities
 
@@ -28,6 +28,9 @@ I'm also interested in the politics of methods: which forms of knowledge product
 
 Publications
 ------
+
+Sanjana Garg*, **Jordan Taylor***, Mai El Sherief, Erin Kasson, Talayeh Aledavood, Raven Riordan, Nina Kaiser,
+Patricia Cavazos-Rehg, Munmun De Choudhury. (2021). *Detecting Risk Level in Individuals Misusing Fentanyl Utilizing Posts from an Online Community on Reddit*.  Internet Interventions.  ([Open Access Link](https://www.sciencedirect.com/science/article/pii/S221478292100107X)) \*Co-first authors.
 
 Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, **Jordan Taylor**, Chaitanya Konjeti, Munmun De Choudhury. *Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities*. (2020). JAMA Network Open.  ([Open Access Link](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2774462))
 
