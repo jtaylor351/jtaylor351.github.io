@@ -32,7 +32,7 @@ Publications
 Sanjana Garg*, **Jordan Taylor***, Mai El Sherief, Erin Kasson, Talayeh Aledavood, Raven Riordan, Nina Kaiser,
 Patricia Cavazos-Rehg, Munmun De Choudhury. (2021). *Detecting Risk Level in Individuals Misusing Fentanyl Utilizing Posts from an Online Community on Reddit*.  Internet Interventions.  ([Open Access Link](https://www.sciencedirect.com/science/article/pii/S221478292100107X)) \*Co-first authors.
 
-Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, **Jordan Taylor**, Chaitanya Konjeti, Munmun De Choudhury. *Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities*. (2020). JAMA Network Open.  ([Open Access Link](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2774462))
+Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, **Jordan Taylor**, Chaitanya Konjeti, Munmun De Choudhury. (2020). *Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities*. JAMA Network Open.  ([Open Access Link](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2774462))
 
 
 Press
