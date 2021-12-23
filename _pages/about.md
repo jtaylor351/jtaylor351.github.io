@@ -18,7 +18,7 @@ I'm also interested in the politics of methods: which forms of knowledge product
 
 **Research Interests**: Social Computing, Identity, Human-Computer Interaction, Computational Social Science, Marginalized Communities, LGBTQ+ Communities, Fat Studies, Anonymity & Self-Disclosure
 
-**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Participant Observation and Participatory Design
+**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Participant Observation, Mixed Methods, and Participatory Design
 
 **Ongoing Work:**
 1. Characterizing GBQ information seeking practices in online communities
@@ -33,6 +33,11 @@ Sanjana Garg\*, **Jordan Taylor**\*, Mai El Sherief, Erin Kasson, Talayeh Aledav
 Patricia Cavazos-Rehg, Munmun De Choudhury. (2021). *Detecting Risk Level in Individuals Misusing Fentanyl Utilizing Posts from an Online Community on Reddit*.  Internet Interventions.  ([Open Access Link](https://www.sciencedirect.com/science/article/pii/S221478292100107X)) \*Co-first authors.
 
 Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, **Jordan Taylor**, Chaitanya Konjeti, Munmun De Choudhury. (2020). *Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities*. JAMA Network Open.  ([Open Access Link](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2774462))
+
+
+Blog Posts
+------
+[Challenges of Moderating the Metaverse](https://medium.com/@nprandchill/challenges-of-moderating-the-metaverse-83e036656234), 2021
 
 
 Press
