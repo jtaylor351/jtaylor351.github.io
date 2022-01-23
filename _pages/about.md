@@ -12,17 +12,17 @@ My name is Jordan (he/him) and I'm a first-year PhD student in Human Computer In
 
 Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
 
-My research interests lie at the intersection of critical social computing, identity, knowledge construction and marginalized communities (particularly queer and fat communities).
+My research interests lie at the intersection of critical social computing, identity, and marginalized communities (particularly LGBTQ+ and fat communities).
 
-I'm also interested in the politics of methods: which forms of knowledge production do different audiences value, and how can that inform method selection for effective advocacy?
+I'm also interested in the methodological challenges of marginalized community research, such as selection bias introduced by social stigma. How do we avoid centering the least marginalized voices in a marginalized community?
 
-**Research Interests**: Social Computing, Identity, Human-Computer Interaction, Computational Social Science, Marginalized Communities, LGBTQ+ Communities, Fat Studies, Anonymity & Self-Disclosure
+**Research Interests**: Social Computing, Identity, Human-Computer Interaction, Computational Social Science, Marginalized Communities, Feminism, Queer Theory, Fat Studies, Anonymity & Self-Disclosure
 
-**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Participant Observation, Mixed Methods, and Participatory Design
+**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Participant Observation, Participatory Design, and Mixed Methods
 
 **Ongoing Work:**
-1. Characterizing GBQ information seeking practices in online communities
-2. [Fat justice](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) in online communities
+1. LGBTQ+ Identity Work
+1. Experiences of [fat people](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) in online communities
 
 **Hobbies**: Running, Hiking, Vegetarian Cooking, and Punk Music
 
