@@ -12,17 +12,13 @@ My name is Jordan (he/him) and I'm a first-year PhD student in Human Computer In
 
 Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
 
-My research interests lie at the intersection of critical social computing, identity, and marginalized communities (particularly LGBTQ+ and fat communities).
+My research interests lie at the intersection of social computing, STS, identity, and marginalized communities (particularly LGBTQ+ and fat communities).
 
-I'm also interested in the methodological challenges of marginalized community research, such as selection bias introduced by social stigma. How do we avoid centering the least marginalized voices in a marginalized community?
+I'm broadly interested in the social construction of knowledge by (E.g. in online communities) and about (E.g. in academia or data schemas) marginalized communities. 
 
-**Research Interests**: Social Computing, Identity, Human-Computer Interaction, Computational Social Science, Marginalized Communities, Feminism, Queer Theory, Fat Studies, Anonymity & Self-Disclosure
+**Research Interests**: Social Computing, Science & Technology Studies, Critical Data Studies, Identity, Marginalized Communities, Feminism, Queer Theory, and Fat Studies
 
-**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Participant Observation, Participatory Design, and Mixed Methods
-
-**Ongoing Work:**
-1. LGBTQ+ Identity Work
-1. Experiences of [fat people](https://medium.com/@thefatshadow/a-draft-agenda-for-fat-justice-db878d93cd98) in online communities
+**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Participant Observation, and Participatory Design
 
 **Hobbies**: Running, Hiking, Vegetarian Cooking, and Punk Music
 
