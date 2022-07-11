@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jordan Taylor"
+title                    : # "Jordan Taylor"
 title_separator          : ""
-name                     : "Jordan Taylor"
-description              : "Jordan Taylor is a researcher at the intersection of Critical Social Computing and Identity"
-url                      : https://jtaylor.gay # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : # "Jordan Taylor"
+description              : # "Jordan Taylor is a researcher at the intersection of Critical Social Computing and Identity"
+url                      : https://gayze-tracking.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jtaylor351/jtaylor351.github.io"
-teaser                   :  "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "gayze-tracking/gayze-tracking.github.io"
+teaser                   : # "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -31,25 +31,6 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 
-# staticman:
-#   allowedFields          : ['name', 'email', 'url', 'message']
-#   branch                 : "master" # "gh-pages"
-#   commitMessage          : "New comment."
-#   filename               : comment-{@timestamp}
-#   format                 : "yml"
-#   moderation             : true
-#   path                   : "_data/comments/{options.slug}"
-#   requiredFields         : ['name', 'email', 'message']
-#   transforms:
-#     email                : "md5"
-#   generatedFields:
-#     date:
-#       type               : "date"
-#       options:
-#         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-# atom_feed:
-#   path                   : # blank (default) uses feed.xml
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -63,7 +44,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "profile.jpg" # Open Graph/Twitter default site image
+og_image                 :  # "profile.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,13 +62,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jordan Taylor<br/>(he / him / his)"
-  avatar           : "profile.jpg"
-  bio              : "Social Computing + Identity + Knowledge Construction"
+  name             : # "Name in side bar"
+  avatar           : # "profile.jpg" image in /images dir
+  bio              : # "Description"
   location         :  
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ejj2UZ4AAAAJ"
+  googlescholar    : # "https://scholar.google.com/profile"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,20 +78,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jtaylor351"
+  github           : # "jtaylor351"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "jordan-taylor-311973129"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "nprandchill"
+  twitter          : # "nprandchill"
   vine             :
   weibo            :
   xing             :
@@ -189,17 +170,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
   # _pages
   - scope:
       path: ""
@@ -207,33 +177,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
 
 # Sass/SCSS
 sass:
