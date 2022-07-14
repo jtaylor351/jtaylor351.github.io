@@ -26,9 +26,22 @@ Press
 
 [Kotaku](https://kotaku.com/activision-blizzard-diversity-tool-overwatch-2-call-of-1848924832) (2022) - Activision Blizzard’s New Diversity Game Tool Is Met With Fanfare: DEI Experts Say This Could Be the Next Killer App in Game Dev
 
-[Forbes](https://www.forbes.com/sites/alexandralevine/2022/02/24/suicide-hotline-left-ethics-board-out-of-the-loop-about-data-sharing-with-for-profit-spinoff/) (2022) - Top Computer Science Researchers are Helping Suicide Hotlines Financially Stay Afloat
+<img src="https://user-images.githubusercontent.com/28931962/179066100-e081b858-a1e8-44e7-a46c-4e1b2f004e45.png" width="60%">
+
+<br><br>
+
+
+[The Verge](https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters) (2021) - Empowering Gamers To Customize Prefered Amount Toxicity of Filter Toxic Through AI Sliders
+
+<img src="https://user-images.githubusercontent.com/28931962/179065811-89a7ea3e-a737-4ac2-87b1-e9fd7df3cd24.png" width="60%">
+<img src="https://user-images.githubusercontent.com/28931962/179066039-ff816764-6345-4ad9-a201-a92f55397e6b.png" width="60%">
+
+<br><br>
+
 
 [The Verge](https://www.theverge.com/2017/9/21/16332760/ai-sexuality-gaydar-photo-physiognomy) (2017) - The Invention of AI ‘Gaydar’ Could Be the Start of Something Great: What Else Can We Predict From People’s Faces?
+
+<img src="https://user-images.githubusercontent.com/28931962/179066394-356963f8-1bc3-4565-b00f-a44fc48e5c4d.png" width="60%">
 
 
 
@@ -50,9 +63,11 @@ Courses
 
 - Ethical Natural Language Processing for Social Good, Fall 2019
 
-- Deep Natural Language Processing \& Deep Learning, Fall 2018
+- Ethical AI, Fall 2019
 
-- Deep Natural Language Processing \& Deep Learning, Fall 2017
+- Deep Natural Language Processing & Deeper Learning, Fall 2018
+
+- Natural Language Processing & Deep Learning, Fall 2017
 
 - Natural Language Processing, Fall 2016
 
