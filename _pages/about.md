@@ -12,7 +12,12 @@ redirect_from:
 About Us
 ------
 
-We are an interdisciplinary research group dedicated to using computer science for social good. We work across domains of social importance, such as education, health, government, and diversity, to democratize access to computing and work toward a fairer world.
+Our interdisciplinary research group crosses boundaries of machine learning and artificial intelligence, the public and private sector, individuals and society to search for how to create a better world for everyone, one program at a time.
+
+We believe that the use of ML and AI is critical in improving the lives of everyone in an unbiased, fair, and ethical manner.
+
+Our work includes using the power of Deep Learning to explain the unexplainable; creating high-impact unbiased artificially intelligent tools with government, academic, and corporate partners; and adopting bleeding-edge technologies for social good.
+
 
 
 Publications
