@@ -1,6 +1,9 @@
 ## Instructions
 
-1. To add content edit the _pages/about.md file
+- To add content edit:
+  - _pages/about.md
+- To modify the nav bar edit:
+  - _data/navigation.yml
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
