@@ -33,8 +33,8 @@ Press
 
 [The Verge](https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters) (2021) - Empowering Gamers To Customize Prefered Amount Toxicity of Filter Toxic Through AI Sliders
 
-<img src="https://user-images.githubusercontent.com/28931962/179065811-89a7ea3e-a737-4ac2-87b1-e9fd7df3cd24.png" width="100%">
-<br>
+<img src="https://user-images.githubusercontent.com/28931962/179065811-89a7ea3e-a737-4ac2-87b1-e9fd7df3cd24.png" width="100%", style="margin-bottom:5%">
+
 <img src="https://user-images.githubusercontent.com/28931962/179066039-ff816764-6345-4ad9-a201-a92f55397e6b.png" width="100%">
 
 <br><br>
