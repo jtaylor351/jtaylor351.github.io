@@ -56,24 +56,16 @@ National Science Foundation (2021) - "Fairness in Artificial Intelligence in Col
 Courses
 ------
 
-- Participatory Design & FATE, Fall 2022
-
-- Fair, Accountable, Transparent, and Equitable AI, Fall 2021
-
-- Fair, Accountable and Transparent AI for Social Good, Fall 2020
-
-- Ethical Natural Language Processing for Social Good, Fall 2019
-
-- Ethical AI, Fall 2019
-
-- Deep Natural Language Processing & Deeper Learning, Fall 2018
-
-- Natural Language Processing & Deep Learning, Fall 2017
-
-- Natural Language Processing, Fall 2016
-
-- Natural Language Processing, Fall 2015
-
-- Natural Language Processing, Fall 2014
-
-- Natural Language Processing, Fall 2013
+| Semester | Course Name |
+| :------ | :--- | 
+| Soring 20222 | CS 3000: Participatory Design & FATE |
+| Spring 2020 | CS 3000: Fair, Accountable, Transparent, and Equitable AI |
+| Spring 2020 | CS 3000: Fair, Accountable and Transparent AI for Social Good |
+| Spring 2019 | CS 3000: Ethical Natural Language Processing for Social Good |
+| Fall 2018 | CS 4002: Deep Natural Language Processing & Deeper Learning |
+| Spring 2018 | CS 3000: Ethical AI |
+| Fall 2017 | CS 4001: Natural Language Processing & Deep Learning |
+| Fall 2016 | CS 4000: Natural Language Processing |
+| Fall 2015 | CS 4000: Natural Language Processing |
+| Fall 2014 | CS 4000: Natural Language Processing |
+| Fall 2013 | CS 4000: Natural Language Processing |
