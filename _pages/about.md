@@ -23,7 +23,7 @@ Our work includes using the power of Deep Learning to explain the unexplainable;
 Publications
 ------
 
-Fake Author Name. (2020). *Development of a Machine Learning Model to Track Gays on Social Media*. JAMA Network Open.  ([Open Access Link](https://jamanetwork.com/journals/jamanetworkopen/))
+Karami, A., Lundy, M., Webb, F., Boyajieff, H. R., Zhu, M., & Lee, D. (2021). Automatic Categorization of LGBT User Profiles on Twitter with Machine Learning. *Electronics*, 10(15), 1822.
 
 
 Press
