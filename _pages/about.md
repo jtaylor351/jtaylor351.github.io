@@ -63,7 +63,7 @@ Courses
 
 | Semester | Course Name |
 | :------ | :--- | 
-| Soring 20222 | CS 3000: Participatory Design & FATE |
+| Spring 2022 | CS 3000: Participatory Design & FATE |
 | Spring 2021 | CS 3000: Fair, Accountable, Transparent, and Equitable AI |
 | Spring 2020 | CS 3000: Fair, Accountable and Transparent AI for Social Good |
 | Spring 2019 | CS 3000: Ethical Natural Language Processing for Social Good |
