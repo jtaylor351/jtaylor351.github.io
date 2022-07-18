@@ -25,6 +25,7 @@ Publications
 
 Karami, A., Lundy, M., Webb, F., Boyajieff, H. R., Zhu, M., & Lee, D. (2021). Automatic Categorization of LGBT User Profiles on Twitter with Machine Learning. *Electronics*, 10(15), 1822.
 
+Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. *Journal of personality and social psychology*, 114(2), 246.
 
 Press
 ------
