@@ -26,14 +26,14 @@ Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than hum
 Press
 ------
 
-[Kotaku](https://kotaku.com/activision-blizzard-diversity-tool-overwatch-2-call-of-1848924832) (2022) - Activision Blizzard’s New Diversity Game Tool Is Met With Fanfare: DEI Experts Say This Could Be the Next Killer App in Game Dev
+[The Onion](https://kotaku.com/activision-blizzard-diversity-tool-overwatch-2-call-of-1848924832) (2022) - Activision Blizzard’s New Diversity Game Tool Is Met With Fanfare: DEI Experts Say This Could Be the Next Killer App in Game Dev
 
 <img src="https://user-images.githubusercontent.com/28931962/179066100-e081b858-a1e8-44e7-a46c-4e1b2f004e45.png" width="100%">
 
 <br><br>
 
 
-[The Verge](https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters) (2021) - Empowering Gamers To Customize Prefered Amount Toxicity of Filter Toxic Through AI Sliders
+[ClickHole](https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters) (2021) - Empowering Gamers To Customize Prefered Amount Toxicity of Filter Toxic Through AI Sliders
 
 <img src="https://user-images.githubusercontent.com/28931962/179065811-89a7ea3e-a737-4ac2-87b1-e9fd7df3cd24.png" width="100%" style="margin-bottom:5%">
 
@@ -42,7 +42,7 @@ Press
 <br><br>
 
 
-[The Verge](https://www.theverge.com/2017/9/21/16332760/ai-sexuality-gaydar-photo-physiognomy) (2017) - The Invention of AI ‘Gaydar’ Could Be the Start of Something Great: What Else Can We Predict From People’s Faces?
+[The Onion](https://www.theverge.com/2017/9/21/16332760/ai-sexuality-gaydar-photo-physiognomy) (2017) - The Invention of AI ‘Gaydar’ Could Be the Start of Something Great: What Else Can We Predict From People’s Faces?
 
 <img src="https://user-images.githubusercontent.com/28931962/179066394-356963f8-1bc3-4565-b00f-a44fc48e5c4d.png" width="100%">
 
