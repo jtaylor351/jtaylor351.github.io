@@ -8,10 +8,6 @@ redirect_from:
 ---
 
 
-
-About Us
-------
-
 Our interdisciplinary research group crosses boundaries of machine learning and artificial intelligence, the public and private sector, individuals and society to search for how to create a better world for everyone, one program at a time.
 
 We believe that the use of ML and AI is critical in improving the lives of everyone in an unbiased, fair, and ethical manner.
@@ -75,3 +71,9 @@ Courses
 | Fall 2015 | CS 4000: Natural Language Processing |
 | Fall 2014 | CS 4000: Natural Language Processing |
 | Fall 2013 | CS 4000: Natural Language Processing |
+
+
+About Us
+------
+
+Explain this is satire down here
