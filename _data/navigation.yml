@@ -2,9 +2,6 @@
 main:
   - title: ""
     url: /#
-  
-  - title: "About Us"
-    url: /#about-us
 
   - title: "Publications"
     url: /#publications
@@ -17,3 +14,6 @@ main:
 
   - title: "Courses"
     url: /#counrses
+    
+  - title: "About Us"
+    url: /#about-us
