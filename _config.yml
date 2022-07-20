@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : # "Jordan Taylor"
+title                    : "Computing for Social Good Group"
 title_separator          : ""
 name                     : # "Jordan Taylor"
 description              : # "Jordan Taylor is a researcher at the intersection of Critical Social Computing and Identity"
@@ -62,8 +62,8 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Name in side bar"
-  avatar           : # "profile.jpg" image in /images dir
+  name             : "C4SGE Group"
+  avatar           : "USAUSAUSA.jpeg" image in /images dir
   bio              : # "Description"
   location         :  
   employer         :
