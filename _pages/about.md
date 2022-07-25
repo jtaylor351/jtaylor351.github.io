@@ -84,6 +84,7 @@ Grants
 ------
 
 National Science Foundation (2021) - "Fairness in Artificial Intelligence in Collaboration with Amazon" ($1.5M)
+Meta (2021) - "Building Tools to Enhance Transparency in Fairness and Privacy" ($100,000)
 
 
 
