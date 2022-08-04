@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computing for Social Good Group"
+title: "Computing for Social Good Research Lab"
 author_profile: true
 redirect_from: 
   - /about/
