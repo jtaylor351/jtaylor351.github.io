@@ -83,7 +83,7 @@ Press
 Grants
 ------
 
-National Science Foundation (2021) - "Fairness in Artificial Intelligence in Collaboration with [Amazon](https://www.aclu.org/news/privacy-technology/amazon-drivers-placed-under-robot-surveillance-microscope)" ($1.5M)
+National Science Foundation (2021) - "Fairness in Artificial Intelligence in Collaboration with [Amazon](https://www.aljazeera.com/economy/2019/7/16/what-is-amazons-role-in-the-us-immigration-crackdown)" ($1.5M)
 
 [Meta](https://apnews.com/article/technology-business-5d3021ed9f193bf249c3af158b128d18) (2021) - "Building Tools to Enhance Transparency in Fairness and Privacy" ($100,000)
 
