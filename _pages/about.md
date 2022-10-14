@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jordan (he/him) and I'm a first-year PhD student in Human Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) :)
+My name is Jordan (he/him) and I'm a second-year PhD student in Human Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) :)
 
 Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
 
-My research interests lie at the intersection of social computing, STS, identity, and marginalized communities (particularly LGBTQ+ and fat communities).
+My research interests lie at the intersection of social computing, culture, and marginalized communities (particularly LGBTQ+ and fat communities).
 
-I'm broadly interested in the social construction of knowledge by (E.g. in online communities) and about (E.g. in academia or data schemas) marginalized communities. 
+I'm broadly interested in the social construction of knowledge by (e.g., in online communities) and about (e.g., in academia or data schemas) marginalized groups. 
 
-**Research Interests**: Social Computing, Science & Technology Studies, Critical Data Studies, Identity, Marginalized Communities, Feminism, Queer Theory, and Fat Studies
+**Research Interests**: Social Computing, Science & Technology Studies, Critical Data Studies, Identity, Marginalized Communities, Feminism, Queer Theory, & Fat Studies
 
-**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, Participant Observation, and Participatory Design
+**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, & Participant Observation
 
-**Hobbies**: Running, Hiking, Vegetarian Cooking, and Punk Music
+**Hobbies**: Running, Hiking, Vegetarian Cooking, & Punk Music
 
 Publications
 ------
@@ -65,26 +65,8 @@ Teaching Experience
 | Georgia Tech | College of Computing | Tutor | Fall 2017 |
 
 
-Talks & Panels
-------
-
-| Event | Role | Date |
-| :--- | :--- | ---:|
-| Carnegie Mellon <br />Fairness, Equity, Accountability, and Transparency Reading Group | Presented and Led Discussions on ["Modeling Assumptions Clash with the Real World: Transparency, Equity, and Community Challenges for Student Assignment Algorithms"](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445748) | September 2021 |
-| Georgia Tech <br />[Career, Research, and Innovation Development Conference](https://www.grad.gatech.edu/cridc) | Panelist | February 2021 |
-| Georgia Tech <br />Pride Alliance<br />Alumni Panel | Panelist | September 2020 |
-| Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/133472367925868/?active_tab=discussion) | Moderator | March 2020 |
-| Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/587687232076839/?active_tab=discussion) | Moderator | February 2020 |
-| Georgia Tech <br />CS 1100<br />Alumni & Graduating Senior Panel | Panelist | November 2019 |
-| Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/2559127140977182/?active_tab=discussion) | Moderator | November 2019 |
-| Georgia Tech <br />CS + Social Good<br />[Research for Social Good Panel](https://www.facebook.com/events/2002294706536329) | Moderator | March 2019 |
-| Georgia Tech <br />Pride Alliance & CS + Social Good<br />[LGBT+ at Google](https://www.facebook.com/events/543889726126066/) | Moderator | January 2019 |
-| Georgia Tech <br />CS + Social Good<br />[Diversity in Tech Panel](https://www.facebook.com/events/1544777462225144/) | Moderator | April 2018 |
-
-
-
 CV
 ------
 
 
-Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1AtCSz054ip_X7qBxPfyb2VI6se34oM6Z/view?usp=sharing">CV</a> (last edited December 2021)
+Updated <a onclick="gtag('event', 'view_cv')" href="https://docs.google.com/document/d/1-EcWIT9l5_rQmeggDAUAcv5YJAZOe2PUdbVR96a278s/edit?usp=sharing">CV</a> (last edited October 2022)
