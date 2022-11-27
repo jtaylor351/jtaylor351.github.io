@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jordan (he/him) and I'm a second-year PhD student in Human Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) :)
+My name is Jordan (he/him) and I'm a second-year PhD student in Human Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com).
 
 Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
 
@@ -16,7 +16,9 @@ My research interests lie at the intersection of social computing, culture, and 
 
 I'm broadly interested in the social construction of knowledge by (e.g., in online communities) and about (e.g., in academia or data schemas) marginalized groups. 
 
-**Research Interests**: Social Computing, Science & Technology Studies, Critical Data Studies, Identity, Marginalized Communities, Feminism, Queer Theory, & Fat Studies
+I don't upadte this site very often, so if you want to see what I'm up to I'm fairly active on both <a href="https://twitter.com/nprandchill">Twitter</a> (for now) and on <a rel="me" href="https://hci.social/@jordant">Mastodon</a>
+
+**Research Interests**: Social Computing, Science & Technology Studies, Critical Data Studies, Identity, Marginalized Communities, Feminism, Queer Theory, Postcolonial Studies, & Fat Studies
 
 **Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, & Participant Observation
 
