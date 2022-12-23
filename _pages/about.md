@@ -14,9 +14,9 @@ Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Te
 
 My research interests lie at the intersection of social computing, culture, and marginalized communities (particularly LGBTQ+ and fat communities).
 
-I'm broadly interested in the social construction of knowledge by (e.g., in online communities) and about (e.g., in academia or data schemas) marginalized groups. 
+I'm broadly interested in the social construction of knowledge by (e.g., in online communities) and about (e.g., in academia or data schemas) marginalized groups. I'm also interested in the impact of "marginalization" as a growing discourse within computing.
 
-I don't upadte this site very often, so if you want to see what I'm up to I'm fairly active on both <a href="https://twitter.com/nprandchill">Twitter</a> (for now) and on <a rel="me" href="https://hci.social/@jordant">Mastodon</a>
+I don't update this site very often, so if you want to see what I'm up to I'm fairly active on both <a href="https://twitter.com/nprandchill">Twitter</a> (for now) and on <a rel="me" href="https://hci.social/@jordant">Mastodon</a>
 
 **Research Interests**: Social Computing, Science & Technology Studies, Critical Data Studies, Identity, Marginalized Communities, Feminism, Queer Theory, Postcolonial Studies, & Fat Studies
 
