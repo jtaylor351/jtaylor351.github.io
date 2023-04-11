@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jordan (he/him) and I'm a second-year PhD student in Human Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com).
+My name is Jordan (he/him) and I'm a second-year PhD student in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com).
 
 Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
 
@@ -16,21 +16,30 @@ My research interests lie at the intersection of social computing, culture, and 
 
 I'm broadly interested in the social construction of knowledge by (e.g., in online communities) and about (e.g., in academia or data schemas) marginalized groups. I'm also interested in the impact of "marginalization" as a growing discourse within computing.
 
-I don't update this site very often, so if you want to see what I'm up to I'm fairly active on both <a href="https://twitter.com/nprandchill">Twitter</a> (for now) and on <a rel="me" href="https://hci.social/@jordant">Mastodon</a>
+I don't update this site very often, so if you want to see what I'm up to I'm fairly active on both <a href="https://twitter.com/nprandchill">Twitter</a> and on <a rel="me" href="https://hci.social/@jordant">Mastodon</a>
 
 **Research Interests**: Social Computing, Science & Technology Studies, Critical Data Studies, Identity, Marginalized Communities, Feminism, Queer Theory, Postcolonial Studies, & Fat Studies
 
 **Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, & Participant Observation
 
-**Hobbies**: Running, Hiking, Vegetarian Cooking, & Punk Music
 
-Publications
+Refereed Publications
 ------
+
+Erin Kasson, Lindsey M. Filiatreau, Nina Kaiser, Kevin Davet, **Jordan Taylor**, Sanjana Garg, Mai El Sherief, Talayeh Aledavood, Munmun De Choudhury, Patricia Cavazos-Rehg. (2023). *Using Social Media to Examine Themes Surrounding Fentanyl Misuse and Risk Indicators.* Substance Use & Misuse. ([link](https://www.tandfonline.com/doi/full/10.1080/10826084.2023.2196574))
 
 Sanjana Garg\*, **Jordan Taylor**\*, Mai El Sherief, Erin Kasson, Talayeh Aledavood, Raven Riordan, Nina Kaiser,
 Patricia Cavazos-Rehg, Munmun De Choudhury. (2021). *Detecting Risk Level in Individuals Misusing Fentanyl Utilizing Posts from an Online Community on Reddit*.  Internet Interventions.  ([Open Access Link](https://www.sciencedirect.com/science/article/pii/S221478292100107X)) \*Co-first authors.
 
 Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, **Jordan Taylor**, Chaitanya Konjeti, Munmun De Choudhury. (2020). *Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities*. JAMA Network Open.  ([Open Access Link](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2774462))
+
+Magazine Articles
+------
+
+**Jordan Taylor**, Adinawa Adjagbodjou. *DEI in computing: centering the margins.* (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4. ([Open Access Link](https://dl.acm.org/doi/10.1145/3538534))
+
+**Jordan Taylor**. *Decoloniality in computing: an interview with Dipto Das.* (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4. ([Open Access Link](https://dl.acm.org/doi/10.1145/3538548))
+
 
 
 Blog Posts
@@ -41,7 +50,7 @@ Blog Posts
 Press
 ------
 
-[Recode](https://www.vox.com/recode/2020/2/24/21150196/twitter-reddit-suicide-cdc-artificial-intelligence), How researchers are using Reddit and Twitter data to forecast suicide rates, 2020
+[Marketplace Tech](https://www.marketplace.org/shows/marketplace-tech/louisiana-law-requiring-proof-of-id-for-porn-site-access-has-privacy-advocates-worried/),  Louisiana law requiring proof of ID for porn site access has privacy advocates worried (2023)
 
 
 Industry Experience
@@ -61,6 +70,7 @@ Teaching Experience
 
 | University | Course or Employer | Role | Semester |
 | :------ | :--- | :--- | ---:|
+| Carnegie Mellon | CS 15-996: Intro to Justice, Equity, Diversity, and Inclusion in CS | Guest Lecture on Identity, Intersectionality, & Systemic Inequality | Spring 2023 |
 | Georgia Tech | CS 3600: Intro to AI | Teaching Assistant | Spring 2020, Fall 2020, Spring 2021 |
 | Georgia Tech | CS 1100: Freshman Leap Seminar | Teaching Assistant | Fall 2019 |
 | Georgia Tech | Center for Academic Success | Tutor | Spring 2017, Summer 2017,<br />Fall 2017, Spring 2018 |
