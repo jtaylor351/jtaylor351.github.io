@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jordan (he/him) and I'm a second-year PhD student in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com).
+My name is Jordan (he/him) and I'm a second-year PhD student in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/).
 
 Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
 
@@ -33,14 +33,22 @@ Patricia Cavazos-Rehg, Munmun De Choudhury. (2021). *Detecting Risk Level in Ind
 
 Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, **Jordan Taylor**, Chaitanya Konjeti, Munmun De Choudhury. (2020). *Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities*. JAMA Network Open.  ([Open Access Link](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2774462))
 
+
+Posters, Extended Abstracts, Workshop Papers and Technical Reports
+------
+
+Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). *How to Ethically Engage Fat People in HCI Research*. Companion of CSCW 2023. (Forthcoming)
+
+Logan Stapleton, **Jordan Taylor**, Sarah Fox, Tongshuang Wu, Haiyi Zhu. (2023). *Seeing Seeds Beyond Weeds: Green Teaming Generative AI for Beneficial Uses.* ICML Workshop on Challenges in Deployable Generative AI. ([link](https://arxiv.org/abs/2306.03097))
+
+
+
 Magazine Articles
 ------
 
 **Jordan Taylor**, Adinawa Adjagbodjou. *DEI in computing: centering the margins.* (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4. ([Open Access Link](https://dl.acm.org/doi/10.1145/3538534))
 
 **Jordan Taylor**. *Decoloniality in computing: an interview with Dipto Das.* (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4. ([Open Access Link](https://dl.acm.org/doi/10.1145/3538548))
-
-
 
 Blog Posts
 ------
