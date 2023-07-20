@@ -37,10 +37,15 @@ Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Dan
 Posters, Extended Abstracts, Workshop Papers and Technical Reports
 ------
 
-Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). *How to Ethically Engage Fat People in HCI Research*. Companion of CSCW 2023. (Forthcoming)
+Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). *How to Ethically Engage Fat People in HCI Research.* Companion of CSCW 2023. (Forthcoming)
 
-Logan Stapleton, **Jordan Taylor**, Sarah Fox, Tongshuang Wu, Haiyi Zhu. (2023). *Seeing Seeds Beyond Weeds: Green Teaming Generative AI for Beneficial Uses.* ICML Workshop on Challenges in Deployable Generative AI. ([link](https://arxiv.org/abs/2306.03097))
+Logan Stapleton, **Jordan Taylor**, Sarah Fox, Tongshuang Wu, Haiyi Zhu. (2023). *Seeing Seeds Beyond Weeds: Green Teaming Generative AI for Beneficial Uses.* ICML Workshop on Challenges in Deployable Generative AI. ([Open Access Link](https://openreview.net/pdf?id=dxyCeGettw))
 
+
+Manuscripts and Pre-Prints
+------
+
+Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo, Jenny T. Liang, Ryan Liu, Ihita Mandal, Jeremiah Milbauer, Xiaolin Ni, Namrata Padmanabhan, Subhashini Ramkumar, Alexis Sudjianto, **Jordan Taylor**, Ying-Jui Tseng, Patricia Vaidos, Zhijin Wu, Wei Wu, Chenyang Yang. (2023). *LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs.* In ArXiv. ([Open Access Link](https://arxiv.org/abs/2307.10168))
 
 
 Magazine Articles
@@ -49,6 +54,7 @@ Magazine Articles
 **Jordan Taylor**, Adinawa Adjagbodjou. *DEI in computing: centering the margins.* (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4. ([Open Access Link](https://dl.acm.org/doi/10.1145/3538534))
 
 **Jordan Taylor**. *Decoloniality in computing: an interview with Dipto Das.* (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4. ([Open Access Link](https://dl.acm.org/doi/10.1145/3538548))
+
 
 Blog Posts
 ------
