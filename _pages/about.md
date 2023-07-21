@@ -16,9 +16,7 @@ My research interests lie at the intersection of social computing, culture, and 
 
 I'm broadly interested in the social construction of knowledge by (e.g., in online communities) and about (e.g., in academia or data schemas) marginalized groups. I'm also interested in the impact of "marginalization" as a growing discourse within computing.
 
-**Research Interests**: Social Computing, Science & Technology Studies, Critical Data Studies, Identity, Marginalized Communities, Feminism, Queer Theory, Postcolonial Studies, & Fat Studies
-
-**Methods**: Human-Centered Machine Learning, Natural Language Processing, Network Science, Interviews, & Participant Observation
+**Research Interests**: Social Computing, Science & Technology Studies, Critical Data Studies, Culture, Identity, Marginalized Communities, Feminism, Queer Theory, & Postcolonial Studies
 
 
 Refereed Publications
