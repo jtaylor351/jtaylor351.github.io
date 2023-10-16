@@ -33,7 +33,7 @@ Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Dan
 Posters, Extended Abstracts, Workshop Papers and Technical Reports
 ------
 
-Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). *How to Ethically Engage Fat People in HCI Research.* Companion of CSCW 2023. (Forthcoming)
+Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). *How to Ethically Engage Fat People in HCI Research.* Companion of CSCW 2023. ([Open Access Link](https://dl.acm.org/doi/10.1145/3584931.3606987))
 
 Logan Stapleton, **Jordan Taylor**, Sarah Fox, Tongshuang Wu, Haiyi Zhu. (2023). *Seeing Seeds Beyond Weeds: Green Teaming Generative AI for Beneficial Uses.* ICML Workshop on Challenges in Deployable Generative AI. ([Open Access Link](https://openreview.net/pdf?id=dxyCeGettw))
 
