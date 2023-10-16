@@ -91,4 +91,4 @@ CV
 ------
 
 
-Updated <a onclick="gtag('event', 'view_cv')" href="https://docs.google.com/document/d/1-EcWIT9l5_rQmeggDAUAcv5YJAZOe2PUdbVR96a278s/edit?usp=sharing">CV</a> (last edited October 2022)
+Updated <a onclick="gtag('event', 'view_cv')" href="https://docs.google.com/document/d/1-EcWIT9l5_rQmeggDAUAcv5YJAZOe2PUdbVR96a278s/edit?usp=sharing">CV</a> (last edited October 2023)
