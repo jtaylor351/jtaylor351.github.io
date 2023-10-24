@@ -22,34 +22,34 @@ I'm broadly interested in the social construction of knowledge by (e.g., in onli
 Refereed Publications
 ------
 
-Erin Kasson, Lindsey M. Filiatreau, Nina Kaiser, Kevin Davet, **Jordan Taylor**, Sanjana Garg, Mai El Sherief, Talayeh Aledavood, Munmun De Choudhury, Patricia Cavazos-Rehg. (2023). *Using Social Media to Examine Themes Surrounding Fentanyl Misuse and Risk Indicators.* Substance Use & Misuse. ([link](https://www.tandfonline.com/doi/full/10.1080/10826084.2023.2196574))
+Erin Kasson, Lindsey M. Filiatreau, Nina Kaiser, Kevin Davet, **Jordan Taylor**, Sanjana Garg, Mai El Sherief, Talayeh Aledavood, Munmun De Choudhury, Patricia Cavazos-Rehg. (2023). [Using Social Media to Examine Themes Surrounding Fentanyl Misuse and Risk Indicators](https://www.tandfonline.com/doi/full/10.1080/10826084.2023.2196574). Substance Use & Misuse.
 
 Sanjana Garg\*, **Jordan Taylor**\*, Mai El Sherief, Erin Kasson, Talayeh Aledavood, Raven Riordan, Nina Kaiser,
-Patricia Cavazos-Rehg, Munmun De Choudhury. (2021). *Detecting Risk Level in Individuals Misusing Fentanyl Utilizing Posts from an Online Community on Reddit*.  Internet Interventions.  ([Open Access Link](https://www.sciencedirect.com/science/article/pii/S221478292100107X)) \*Co-first authors.
+Patricia Cavazos-Rehg, Munmun De Choudhury. (2021). [Detecting Risk Level in Individuals Misusing Fentanyl Utilizing Posts from an Online Community on Reddit](https://www.sciencedirect.com/science/article/pii/S221478292100107X). Internet Interventions. \*Co-first authors.
 
-Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, **Jordan Taylor**, Chaitanya Konjeti, Munmun De Choudhury. (2020). *Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities*. JAMA Network Open.  ([Open Access Link](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2774462))
+Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, **Jordan Taylor**, Chaitanya Konjeti, Munmun De Choudhury. (2020). [Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2774462). JAMA Network Open.
 
 
 Posters, Extended Abstracts, Workshop Papers and Technical Reports
 ------
 
-Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). *How to Ethically Engage Fat People in HCI Research.* Companion of CSCW 2023. ([Open Access Link](https://dl.acm.org/doi/10.1145/3584931.3606987))
+Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). [How to Ethically Engage Fat People in HCI Research](https://dl.acm.org/doi/10.1145/3584931.3606987). Companion of CSCW 2023. **(Best Poster Award)**
 
-Logan Stapleton, **Jordan Taylor**, Sarah Fox, Tongshuang Wu, Haiyi Zhu. (2023). *Seeing Seeds Beyond Weeds: Green Teaming Generative AI for Beneficial Uses.* ICML Workshop on Challenges in Deployable Generative AI. ([Open Access Link](https://openreview.net/pdf?id=dxyCeGettw))
+Logan Stapleton, **Jordan Taylor**, Sarah Fox, Tongshuang Wu, Haiyi Zhu. (2023). [Seeing Seeds Beyond Weeds: Green Teaming Generative AI for Beneficial Uses](https://arxiv.org/pdf/2306.03097.pdf). ICML Workshop on Challenges in Deployable Generative AI.
 
 
 Manuscripts and Pre-Prints
 ------
 
-Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo, Jenny T. Liang, Ryan Liu, Ihita Mandal, Jeremiah Milbauer, Xiaolin Ni, Namrata Padmanabhan, Subhashini Ramkumar, Alexis Sudjianto, **Jordan Taylor**, Ying-Jui Tseng, Patricia Vaidos, Zhijin Wu, Wei Wu, Chenyang Yang. (2023). *LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs.* In ArXiv. ([Open Access Link](https://arxiv.org/abs/2307.10168))
+Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, Ziqi Ding, Bill Guo, Sireesh Gururaja, Tzu-Sheng Kuo, Jenny T. Liang, Ryan Liu, Ihita Mandal, Jeremiah Milbauer, Xiaolin Ni, Namrata Padmanabhan, Subhashini Ramkumar, Alexis Sudjianto, **Jordan Taylor**, Ying-Jui Tseng, Patricia Vaidos, Zhijin Wu, Wei Wu, Chenyang Yang. (2023). [LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs](https://arxiv.org/abs/2307.10168). In ArXiv.
 
 
 Magazine Articles
 ------
 
-**Jordan Taylor**, Adinawa Adjagbodjou. *DEI in computing: centering the margins.* (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4. ([Open Access Link](https://dl.acm.org/doi/10.1145/3538534))
+**Jordan Taylor**, Adinawa Adjagbodjou. [DEI in Computing: Centering the Margins](https://dl.acm.org/doi/10.1145/3538534). (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4.
 
-**Jordan Taylor**. *Decoloniality in computing: an interview with Dipto Das.* (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4. ([Open Access Link](https://dl.acm.org/doi/10.1145/3538548))
+**Jordan Taylor**. [Decoloniality in Computing: An Interview with Dipto Das](https://dl.acm.org/doi/10.1145/3538548). (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4.
 
 
 Blog Posts
@@ -80,6 +80,7 @@ Teaching Experience
 
 | University | Course or Employer | Role | Semester |
 | :------ | :--- | :--- | ---:|
+| Carnegie Mellon | HCI 05-610: User-Centered Research and Evaluation | Teaching Assistant | Fall 2023 |
 | Carnegie Mellon | CS 15-996: Intro to Justice, Equity, Diversity, and Inclusion in CS | Guest Lecture on Identity, Intersectionality, & Systemic Inequality | Spring 2023 |
 | Georgia Tech | CS 3600: Intro to AI | Teaching Assistant | Spring 2020, Fall 2020, Spring 2021 |
 | Georgia Tech | CS 1100: Freshman Leap Seminar | Teaching Assistant | Fall 2019 |
