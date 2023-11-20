@@ -54,13 +54,13 @@ Magazine Articles
 
 Blog Posts
 ------
-[Challenges of Moderating the Metaverse](https://medium.com/@nprandchill/challenges-of-moderating-the-metaverse-83e036656234), 2021
+[Challenges of Moderating the Metaverse](https://medium.com/@nprandchill/challenges-of-moderating-the-metaverse-83e036656234). 2021
 
 
 Press
 ------
 
-[Marketplace Tech](https://www.marketplace.org/shows/marketplace-tech/louisiana-law-requiring-proof-of-id-for-porn-site-access-has-privacy-advocates-worried/),  Louisiana law requiring proof of ID for porn site access has privacy advocates worried (2023)
+[Louisiana law requiring proof of ID for porn site access has privacy advocates worried](https://www.marketplace.org/shows/marketplace-tech/louisiana-law-requiring-proof-of-id-for-porn-site-access-has-privacy-advocates-worried/). (2023). Marketplace Tech. 
 
 
 Industry Experience
