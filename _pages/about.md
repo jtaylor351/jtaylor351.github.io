@@ -22,7 +22,7 @@ I'm broadly interested in the social construction of knowledge by (e.g., in onli
 Refereed Publications
 ------
 
-**Jordan Taylor,** Amy Bruckman. (2024). Mitigating Epistemic Injustice: The Online Construction of a Bisexual Culture. ACM Transactions on Computer-Human Interaction (TOCHI). (To Appear)
+**Jordan Taylor,** Amy Bruckman. (2024). [Mitigating Epistemic Injustice: The Online Construction of a Bisexual Culture](https://dl.acm.org/doi/10.1145/3648614). ACM Transactions on Computer-Human Interaction (TOCHI).
 
 **Jordan Taylor,\*** Ellen Simpsion,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://arxiv.org/abs/2402.07864). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. (To Appear) \*Co-First Author.
 
