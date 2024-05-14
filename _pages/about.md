@@ -24,9 +24,9 @@ Refereed Publications
 
 **Jordan Taylor,** Amy Bruckman. (2024). [Mitigating Epistemic Injustice: The Online Construction of a Bisexual Culture](https://dl.acm.org/doi/10.1145/3648614). ACM Transactions on Computer-Human Interaction (TOCHI).
 
-**Jordan Taylor,\*** Ellen Simpsion,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://arxiv.org/abs/2402.07864). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. (To Appear) \*Co-First Author.
+**Jordan Taylor,\*** Ellen Simpsion,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. \*Co-First Author.
 
-Anh-Ton Tran, Grace Guo, **Jordan Taylor,** Katsuki Andrew Chan, Elora Lee Raymond, Carl DiSalvo. (2024). [Situating Datasets: Making Public Eviction Data Accessible for Housing Justice](https://arxiv.org/abs/2402.12505). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. (To Appear)
+Anh-Ton Tran, Grace Guo, **Jordan Taylor,** Katsuki Andrew Chan, Elora Lee Raymond, Carl DiSalvo. (2024). [Situating Datasets: Making Public Eviction Data Accessible for Housing Justice](https://dl.acm.org/doi/10.1145/3613904.3642452). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems.
 
 Erin Kasson, Lindsey M. Filiatreau, Nina Kaiser, Kevin Davet, **Jordan Taylor**, Sanjana Garg, Mai El Sherief, Talayeh Aledavood, Munmun De Choudhury, Patricia Cavazos-Rehg. (2023). [Using Social Media to Examine Themes Surrounding Fentanyl Misuse and Risk Indicators](https://www.tandfonline.com/doi/full/10.1080/10826084.2023.2196574). Substance Use & Misuse.
 
