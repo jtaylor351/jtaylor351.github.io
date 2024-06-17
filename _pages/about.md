@@ -22,6 +22,8 @@ I'm broadly interested in the social construction of knowledge by (e.g., in onli
 Refereed Publications
 ------
 
+**Jordan Taylor,** Wesley Hanwen Deng, Kenneth Holstein, Sarah Fox, Haiyi Zhu. (2024). [Carefully Unmaking the “Marginalized User:” A Diffractive Analysis of a Gay Online Community](https://doi.org/10.1145/3673229). ACM Transactions on Computer-Human Interaction (TOCHI).
+
 **Jordan Taylor,** Amy Bruckman. (2024). [Mitigating Epistemic Injustice: The Online Construction of a Bisexual Culture](https://dl.acm.org/doi/10.1145/3648614). ACM Transactions on Computer-Human Interaction (TOCHI).
 
 **Jordan Taylor,\*** Ellen Simpsion,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. \*Co-First Author.
