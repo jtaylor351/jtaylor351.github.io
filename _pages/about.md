@@ -38,8 +38,10 @@ Patricia Cavazos-Rehg, Munmun De Choudhury. (2021). [Detecting Risk Level in Ind
 Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, **Jordan Taylor**, Chaitanya Konjeti, Munmun De Choudhury. (2020). [Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2774462). JAMA Network Open.
 
 
-Posters, Extended Abstracts, Workshop Papers and Technical Reports
+Posters, Extended Abstracts, Workshops and Technical Reports
 ------
+
+Anh-Ton Tran, Annabel Rothschild, Kay Kender, Ekat Osipova, Brian Kinnee, **Jordan Taylor**, Louie Søs Meyer, Oliver L. Haimson, Ann Light, Carl Disalvo. (2024). [Making Trouble: Techniques for Queering Data and AI Systems](https://dl.acm.org/doi/abs/10.1145/3656156.3658393). Companion of DIS 2024.
 
 Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). [How to Ethically Engage Fat People in HCI Research](https://dl.acm.org/doi/10.1145/3584931.3606987). Companion of CSCW 2023. **(Best Poster Award)**
 
