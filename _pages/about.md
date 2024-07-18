@@ -70,6 +70,12 @@ Blog Posts
 Press
 ------
 
+[CMU Technologists Look to a More Inclusive Future](https://www.cs.cmu.edu/news/2024/inclusive-ai). (2024). Carnegie Mellon University School of Computer Science News.
+
+[How Should AI Depict Marginalized Communities?](https://www.cmu.edu/news/stories/archives/2024/june/how-should-ai-depict-marginalized-communities-cmu-technologists-look-to-a-more-inclusive-future ) (2024). Carnegie Mellon University Newsletter (The Piper).
+
+[Creating a JEDI Mindset: Student-created Course Sharpens Focus on Diversity, Equity and Inclusion in the Computer Science Community](https://magazine.cs.cmu.edu/creating-a-jedi-mindset). (2024) Carnegie Mellon University Newsletter (The Piper)
+
 [Louisiana law requiring proof of ID for porn site access has privacy advocates worried](https://www.marketplace.org/shows/marketplace-tech/louisiana-law-requiring-proof-of-id-for-porn-site-access-has-privacy-advocates-worried/). (2023). Marketplace Tech. 
 
 
@@ -102,4 +108,4 @@ CV
 ------
 
 
-Updated <a onclick="gtag('event', 'view_cv')" href="https://docs.google.com/document/d/1-EcWIT9l5_rQmeggDAUAcv5YJAZOe2PUdbVR96a278s/edit?usp=sharing">CV</a> (last edited February 2024)
+Updated <a onclick="gtag('event', 'view_cv')" href="https://docs.google.com/document/d/1-EcWIT9l5_rQmeggDAUAcv5YJAZOe2PUdbVR96a278s/edit?usp=sharing">CV</a> (last edited July 2024)
