@@ -10,23 +10,21 @@ redirect_from:
 
 My name is Jordan (he/him) and I'm a PhD student in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/).
 
-Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Munmun De Choudhury](http://www.munmund.net/) in the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/).
+Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Munmun De Choudhury](http://www.munmund.net/).
 
-My research interests lie at the intersection of social computing, culture, and marginalized communities (particularly LGBTQ+ and fat communities).
+My research focuses on how members of marginalized communities (primarily LGBTQ+ people) appropriate and subvert technology, such as Generative AI and Social Media. I'm also interested in the implications of "marginalization" as a growing discourse in computing. 
 
-I'm broadly interested in the social construction of knowledge by (e.g., in online communities) and about (e.g., in academia or data schemas) marginalized groups. I'm also interested in the impact of "marginalization" as a growing discourse within computing.
-
-**Research Interests**: Critical HCI, Science & Technology Studies, Marginalized Communities, Feminist Theory, Queer Theory & Postcolonial Studies
+**Research Interests**: Critical HCI, Science & Technology Studies, Queer HCI, Culture, Identity
 
 
 Refereed Publications
 ------
 
+**Jordan Taylor,\*** Ellen Simpsion,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. \*Co-First Author.
+
 **Jordan Taylor,** Wesley Hanwen Deng, Kenneth Holstein, Sarah Fox, Haiyi Zhu. (2024). [Carefully Unmaking the “Marginalized User:” A Diffractive Analysis of a Gay Online Community](https://doi.org/10.1145/3673229). ACM Transactions on Computer-Human Interaction (TOCHI).
 
 **Jordan Taylor,** Amy Bruckman. (2024). [Mitigating Epistemic Injustice: The Online Construction of a Bisexual Culture](https://dl.acm.org/doi/10.1145/3648614). ACM Transactions on Computer-Human Interaction (TOCHI).
-
-**Jordan Taylor,\*** Ellen Simpsion,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. \*Co-First Author.
 
 Anh-Ton Tran, Grace Guo, **Jordan Taylor,** Katsuki Andrew Chan, Elora Lee Raymond, Carl DiSalvo. (2024). [Situating Datasets: Making Public Eviction Data Accessible for Housing Justice](https://dl.acm.org/doi/10.1145/3613904.3642452). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems.
 
