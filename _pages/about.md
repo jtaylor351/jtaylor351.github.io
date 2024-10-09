@@ -20,13 +20,15 @@ My research focuses on how members of marginalized communities (primarily LGBTQ+
 Refereed Publications
 ------
 
-**Jordan Taylor,\*** Ellen Simpsion,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. \*Co-First Author.
+Blakeley H. Payne,\* **Jordan Taylor,\*** Katta Spiel, Casey Fiesler. (2025). [Building Solidarity Amid Hostility: Experiences of Fat People in Online Communities](https://arxiv.org/abs/2410.04614). ACM International Conference on Supporting Group Work (Forthcoming at GROUP 2025). \*Co-First Author.
+
+**Jordan Taylor,\*** Ellen Simpsion,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024). \*Co-First Author.
 
 **Jordan Taylor,** Wesley Hanwen Deng, Kenneth Holstein, Sarah Fox, Haiyi Zhu. (2024). [Carefully Unmaking the “Marginalized User:” A Diffractive Analysis of a Gay Online Community](https://doi.org/10.1145/3673229). ACM Transactions on Computer-Human Interaction (TOCHI).
 
 **Jordan Taylor,** Amy Bruckman. (2024). [Mitigating Epistemic Injustice: The Online Construction of a Bisexual Culture](https://dl.acm.org/doi/10.1145/3648614). ACM Transactions on Computer-Human Interaction (TOCHI).
 
-Anh-Ton Tran, Grace Guo, **Jordan Taylor,** Katsuki Andrew Chan, Elora Lee Raymond, Carl DiSalvo. (2024). [Situating Datasets: Making Public Eviction Data Accessible for Housing Justice](https://dl.acm.org/doi/10.1145/3613904.3642452). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems.
+Anh-Ton Tran, Grace Guo, **Jordan Taylor,** Katsuki Andrew Chan, Elora Lee Raymond, Carl DiSalvo. (2024). [Situating Datasets: Making Public Eviction Data Accessible for Housing Justice](https://dl.acm.org/doi/10.1145/3613904.3642452). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024).
 
 Erin Kasson, Lindsey M. Filiatreau, Nina Kaiser, Kevin Davet, **Jordan Taylor**, Sanjana Garg, Mai El Sherief, Talayeh Aledavood, Munmun De Choudhury, Patricia Cavazos-Rehg. (2023). [Using Social Media to Examine Themes Surrounding Fentanyl Misuse and Risk Indicators](https://www.tandfonline.com/doi/full/10.1080/10826084.2023.2196574). Substance Use & Misuse.
 
