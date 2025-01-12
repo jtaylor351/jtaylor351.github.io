@@ -20,7 +20,7 @@ My research focuses on how members of marginalized communities (primarily LGBTQ+
 Refereed Publications
 ------
 
-Blakeley H. Payne,\* **Jordan Taylor,\*** Katta Spiel, Casey Fiesler. (2025). [Building Solidarity Amid Hostility: Experiences of Fat People in Online Communities](https://arxiv.org/abs/2410.04614). ACM International Conference on Supporting Group Work (Forthcoming at GROUP 2025). \*Co-First Author.
+Blakeley H. Payne,\* **Jordan Taylor,\*** Katta Spiel, Casey Fiesler. (2025). [Building Solidarity Amid Hostility: Experiences of Fat People in Online Communities](https://dl.acm.org/doi/10.1145/3701186). ACM International Conference on Supporting Group Work (GROUP 2025). \*Co-First Author.
 
 **Jordan Taylor,\*** Ellen Simpsion,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024). \*Co-First Author.
 
