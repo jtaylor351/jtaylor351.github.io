@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jordan (he/him) and I'm a PhD student in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/).
+My name is Jordan (he/him) and I'm a PhD student in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I am a member of the [Social AI Lab](https://www.social-ai.org) and [Tech Solidarity Lab](https://techsolidaritylab.com) at Carnegie Mellon. 
 
 Before CMU, I graduated with a B.S. and M.S. in Computer Science from Georgia Tech, where I worked with [Munmun De Choudhury](http://www.munmund.net/).
 
@@ -96,6 +96,7 @@ Teaching Experience
 
 | University | Course or Employer | Role | Semester |
 | :------ | :--- | :--- | ---:|
+| Carnegie Mellon | HCI 05-618: Human-AI Interaction | Teaching Assistant | Spring 2025 |
 | Carnegie Mellon | HCI 05-610: User-Centered Research and Evaluation | Teaching Assistant | Fall 2023 |
 | Carnegie Mellon | CS 15-996: Intro to Justice, Equity, Diversity, and Inclusion in CS | Guest Lecture on Identity, Intersectionality, & Systemic Inequality | Spring 2023 |
 | Georgia Tech | CS 3600: Intro to AI | Teaching Assistant | Spring 2020, Fall 2020, Spring 2021 |
