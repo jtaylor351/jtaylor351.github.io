@@ -4,19 +4,19 @@ main:
     url: /#
   
   - title: "Publications"
-    url: /#publications
+    url: /#selected-publications
 
-  - title: "Industry"
-    url: /#industry-experience  
+  # - title: "Extended Abstracts"
+  #   url: /#selected-extended-abstracts
+    
+  - title: "Press"
+    url: /#selected-press
 
   - title: "Teaching"
-    url: /#teaching-experience  
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
+    url: /#selected-teaching
         
-  - title: "Talks"
-    url: /#talks--panels
+  # - title: "Talks"
+  #   url: /#talks--panels
     
   - title: "CV"
     url: /#cv
