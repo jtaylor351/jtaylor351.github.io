@@ -30,13 +30,11 @@ Blakeley H. Payne,\* **Jordan Taylor,\*** Katta Spiel, Casey Fiesler. (2025). [B
 Selected Extended Abstracts
 ------
 
-Tongshuang Wu, Haiyi Zhu, Maya Albayrak, Alexis Axon, Amanda Bertsch, Wenxing Deng, ... , **Jordan Taylor**, Ying-Jui Tseng, Patricia Vaidos, Zhijin Wu, Wei Wu, Chenyang Yang. (2025). [LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs](https://arxiv.org/abs/2307.10168). CHI 2025 Case Study.
-
 Anh-Ton Tran, Annabel Rothschild, Kay Kender, Ekat Osipova, Brian Kinnee, **Jordan Taylor**, Louie Søs Meyer, Oliver L. Haimson, Ann Light, Carl Disalvo. (2024). [Making Trouble: Techniques for Queering Data and AI Systems](https://dl.acm.org/doi/abs/10.1145/3656156.3658393). DIS 2024 Workshop.
 
 Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). [How to Ethically Engage Fat People in HCI Research](https://dl.acm.org/doi/10.1145/3584931.3606987). CSCW 2023 Poster. **(Best Poster Award)**
 
-Logan Stapleton, **Jordan Taylor**, Sarah Fox, Tongshuang Wu, Haiyi Zhu. (2023). [Seeing Seeds Beyond Weeds: Green Teaming Generative AI for Beneficial Uses](https://arxiv.org/pdf/2306.03097.pdf). Presented at ICML Workshop on Challenges in Deployable Generative AI.
+Logan Stapleton, **Jordan Taylor**, Sarah Fox, Tongshuang Wu, Haiyi Zhu. (2023). [Seeing Seeds Beyond Weeds: Green Teaming Generative AI for Beneficial Uses](https://arxiv.org/pdf/2306.03097.pdf). Shared at ICML Workshop on Challenges in Deployable Generative AI.
 
 
 Magazine Articles
@@ -47,16 +45,14 @@ Magazine Articles
 **Jordan Taylor**. [Decoloniality in Computing: An Interview with Dipto Das](https://dl.acm.org/doi/10.1145/3538548). (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4.
 
 
-Press
+Selected Press
 ------
 
 [CMU Technologists Look to a More Inclusive Future](https://www.cs.cmu.edu/news/2024/inclusive-ai). (2024). Carnegie Mellon University School of Computer Science News.
 
 [How Should AI Depict Marginalized Communities?](https://www.cmu.edu/news/stories/archives/2024/june/how-should-ai-depict-marginalized-communities-cmu-technologists-look-to-a-more-inclusive-future ) (2024). Carnegie Mellon University Newsletter (The Piper).
 
-[Creating a JEDI Mindset: Student-created Course Sharpens Focus on Diversity, Equity and Inclusion in the Computer Science Community](https://magazine.cs.cmu.edu/creating-a-jedi-mindset). (2024) Carnegie Mellon University Newsletter (The Piper).
-
-[Louisiana law requiring proof of ID for porn site access has privacy advocates worried](https://www.marketplace.org/shows/marketplace-tech/louisiana-law-requiring-proof-of-id-for-porn-site-access-has-privacy-advocates-worried/). (2023). Marketplace Tech. 
+[Louisiana Law Requiring Proof of ID for Porn Site Access Has Privacy Advocates Worried](https://www.marketplace.org/shows/marketplace-tech/louisiana-law-requiring-proof-of-id-for-porn-site-access-has-privacy-advocates-worried/). (2023). Marketplace Tech. 
 
 
 Selected Teaching
