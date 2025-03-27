@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jordan Taylor<br/>(he / him / his)"
+  name             : "Jordan Taylor"
   avatar           : "profile.jpg"
   bio              : 
   location         :  
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jtaylor351"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "nprandchill"
+  twitter          : 
   bluesky          : "jordant.bsky.social"
   vine             :
   weibo            :
