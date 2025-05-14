@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jordan (he/him) and I'm a PhD student in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I graduated with a B.S. and M.S. in Computer Science from Georgia Tech.
+My name is Jordan and I'm a PhD student in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I graduated with a B.S. and M.S. in Computer Science from Georgia Tech.
 
 My research focuses on the values embedded within sociotechnical systems — such as online communities and generative AI models — as well as how members of marginalized communities negotiate these values. At the same time, I am interested in how the design of technology is mediated by the ways researchers and practitioners understand marginalized communities.
 
