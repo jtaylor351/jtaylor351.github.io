@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jordan and I'm a PhD student in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I graduated with a B.S. and M.S. in Computer Science from Georgia Tech.
+My name is Jordan and I'm a PhD candidte in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I graduated with a B.S. and M.S. in Computer Science from Georgia Tech.
 
-My research focuses on the values embedded within sociotechnical systems — such as online communities and generative AI models — as well as how members of marginalized communities negotiate these values. At the same time, I am interested in how the design of technology is mediated by the ways researchers and practitioners understand marginalized communities.
+My research focuses on how queer communities negotiate the values embedded within sociotechnical systems, such such as online communities and generative AI models. I also examine how technologists' understandings of marginalized communities shapes the design and research of sociotechnical systems. 
+
+**I am on the job market looking for postdoctorate, tenure track, or industry research positions!**
 
 **Research Interests**: Critical HCI, Science & Technology Studies, Queer HCI, Social Computing, Responsible AI
 
@@ -18,7 +20,7 @@ My research focuses on the values embedded within sociotechnical systems — suc
 Selected Publications
 ------
 
-**Jordan Taylor,** Joel Mire, Franchesca Spektor, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2025). [Un-Straightening Generative AI: How Queer Artists Surface and Challenge the Normativity of Generative AI Models](https://arxiv.org/abs/2503.09805). The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025). (To Appear)
+**Jordan Taylor,** Joel Mire, Franchesca Spektor, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2025). [Un-Straightening Generative AI: How Queer Artists Surface and Challenge Model Normativity](https://dl.acm.org/doi/10.1145/3715275.3732061). The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025).
 
 Blakeley H. Payne,\* **Jordan Taylor,\*** Katta Spiel, Casey Fiesler. (2025). [Building Solidarity Amid Hostility: Experiences of Fat People in Online Communities](https://dl.acm.org/doi/10.1145/3701186). ACM International Conference on Supporting Group Work (GROUP 2025). \*Co-First Author.
 
@@ -71,4 +73,4 @@ CV
 ------
 
 
-Updated <a onclick="gtag('event', 'view_cv')" href="https://docs.google.com/document/d/1-EcWIT9l5_rQmeggDAUAcv5YJAZOe2PUdbVR96a278s/edit?usp=sharing">CV</a> (last edited July 2024)
+Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1YwDNsIAXuAfzqQYdxCjBZ7UY0CcSybb0/view?usp=share_link">CV</a> (last edited June 2025)
