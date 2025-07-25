@@ -52,6 +52,8 @@ Magazine Articles
 Selected Press
 ------
 
+[ACM Celebrates Pride Month 2025](https://www.acm.org/diversity-inclusion/pride-month-2025). (2025). Association for Computing Machinery.
+
 [CMU Technologists Look to a More Inclusive Future](https://www.cs.cmu.edu/news/2024/inclusive-ai). (2024). Carnegie Mellon University School of Computer Science News.
 
 [How Should AI Depict Marginalized Communities?](https://www.cmu.edu/news/stories/archives/2024/june/how-should-ai-depict-marginalized-communities-cmu-technologists-look-to-a-more-inclusive-future ) (2024). Carnegie Mellon University Newsletter (The Piper).
