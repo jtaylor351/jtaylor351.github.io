@@ -24,7 +24,7 @@ Selected Publications
 
 Blakeley H. Payne,\* **Jordan Taylor,\*** Katta Spiel, Casey Fiesler. (2025). [Building Solidarity Amid Hostility: Experiences of Fat People in Online Communities](https://dl.acm.org/doi/10.1145/3701186). Proceedings of the ACM on Human-Computer Interaction, GROUP (GROUP 2025). \*Co-First Author.
 
-**Jordan Taylor,\*** Ellen Simpsion,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2024). \*Co-First Author.
+**Jordan Taylor,\*** Ellen Simpson,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2024). \*Co-First Author.
 
 **Jordan Taylor,** Wesley Hanwen Deng, Kenneth Holstein, Sarah Fox, Haiyi Zhu. (2024). [Carefully Unmaking the “Marginalized User:” A Diffractive Analysis of a Gay Online Community](https://doi.org/10.1145/3673229). ACM Transactions on Computer-Human Interaction (TOCHI).
 
