@@ -10,9 +10,9 @@ redirect_from:
 
 My name is Jordan and I'm a PhD candidate in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I graduated with a B.S. and M.S. in Computer Science from Georgia Tech.
 
-My research focuses on how queer communities negotiate the values embedded within sociotechnical systems, such as online communities and generative AI models. I also examine how technologists' understandings of marginalized communities shapes the design and research of sociotechnical systems.
+My research focuses on how queer communities and artists creatively make use of and resist technologies, such as online communities and generative AI systems. I also draw on cultural studies and science & technology studies to examine dominant values embedded in technologies.
 
-**Research Interests**: Critical HCI, Science & Technology Studies, Queer HCI, Social Computing, Responsible AI
+**Research Interests**: Critical HCI, Science & Technology Studies, Queer HCI, Social Computing, Responsible AI, Art
 
 
 Selected Publications
