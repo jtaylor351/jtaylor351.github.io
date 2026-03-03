@@ -18,16 +18,15 @@ My research focuses on how **queer communities and artists** creatively make use
 Selected Publications
 ------
 
-Anna Kawakami, **Jordan Taylor,** Sarah Fox, Haiyi Zhu, Kenneth Holstein. (2026). [AI Failure Loops in Devalued Work: The Confluence of Overconfidence in AI and Underconfidence in Worker Expertise](https://doi.org/10.1177/20539517261424164). Big Data & Society.
+**Jordan Taylor,** William Agnew, Maarten Sap, Sarah Fox, Haiyi Zhu. (2026). [The Algorithmic Gaze of Image Quality Assessment: An Audit and Trace Ethnography of the LAION-Aesthetics Predictor](https://arxiv.org/abs/2601.09896). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (To Appear at FAccT 2026).
 
+Anna Kawakami, **Jordan Taylor,** Sarah Fox, Haiyi Zhu, Kenneth Holstein. (2026). [AI Failure Loops in Devalued Work: The Confluence of Overconfidence in AI and Underconfidence in Worker Expertise](https://doi.org/10.1177/20539517261424164). Big Data & Society.
 
 **Jordan Taylor,** Joel Mire, Franchesca Spektor, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2025). [Un-Straightening Generative AI: How Queer Artists Surface and Challenge Model Normativity](https://dl.acm.org/doi/10.1145/3715275.3732061). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (FAccT 2025).
 
 Blakeley H. Payne,\* **Jordan Taylor,\*** Katta Spiel, Casey Fiesler. (2025). [Building Solidarity Amid Hostility: Experiences of Fat People in Online Communities](https://dl.acm.org/doi/10.1145/3701186). Proceedings of the ACM on Human-Computer Interaction, GROUP (GROUP 2025). \*Co-First Author.
 
 **Jordan Taylor,\*** Ellen Simpson,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2024). \*Co-First Author.
-
-**Jordan Taylor,** Wesley Hanwen Deng, Kenneth Holstein, Sarah Fox, Haiyi Zhu. (2024). [Carefully Unmaking the “Marginalized User:” A Diffractive Analysis of a Gay Online Community](https://doi.org/10.1145/3673229). ACM Transactions on Computer-Human Interaction (TOCHI).
 
 **Jordan Taylor,** Amy Bruckman. (2024). [Mitigating Epistemic Injustice: The Online Construction of a Bisexual Culture](https://dl.acm.org/doi/10.1145/3648614). ACM Transactions on Computer-Human Interaction (TOCHI).
 
