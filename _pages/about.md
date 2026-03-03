@@ -10,13 +10,16 @@ redirect_from:
 
 My name is Jordan and I'm a PhD candidate in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I graduated with a B.S. and M.S. in Computer Science from Georgia Tech.
 
-My research focuses on how queer communities and artists creatively make use of and resist technologies, such as online communities and generative AI systems. I also draw on cultural studies and science & technology studies to examine dominant values embedded in technologies.
+My research focuses on how **queer communities and artists** creatively make use of and resist technologies, such as online communities and generative AI systems. I also draw on cultural studies and science & technology studies to examine dominant values embedded in technologies. My most recent research examines the cultural conseuqnces of aesthetic evaluation.
 
-**Research Interests**: Critical HCI, Science & Technology Studies, Queer HCI, Social Computing, Responsible AI, Art
+**Research Interests**: Critical HCI, Science & Technology Studies, Queer HCI, Responsible AI, Art, Social Computing
 
 
 Selected Publications
 ------
+
+Anna Kawakami, **Jordan Taylor,** Sarah Fox, Haiyi Zhu, Kenneth Holstein. (2026). [AI Failure Loops in Devalued Work: The Confluence of Overconfidence in AI and Underconfidence in Worker Expertise](https://doi.org/10.1177/20539517261424164). Big Data & Society.
+
 
 **Jordan Taylor,** Joel Mire, Franchesca Spektor, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2025). [Un-Straightening Generative AI: How Queer Artists Surface and Challenge Model Normativity](https://dl.acm.org/doi/10.1145/3715275.3732061). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (FAccT 2025).
 
