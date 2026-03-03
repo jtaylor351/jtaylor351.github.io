@@ -75,4 +75,4 @@ CV
 ------
 
 
-Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1Z5AjBHPV5qDx-GlLl5UjPBPqVd7hGd4U/view?usp=share_link">CV</a> (last edited August 2025)
+Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1V0X4ohYH9phbsH04YXecEK2DHt-iSlzG/view?usp=sharing">CV</a> (last edited March 2026)
