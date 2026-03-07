@@ -24,15 +24,12 @@ Anna Kawakami, **Jordan Taylor,** Sarah Fox, Haiyi Zhu, Kenneth Holstein. (2026)
 
 **Jordan Taylor,** Joel Mire, Franchesca Spektor, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2025). [Un-Straightening Generative AI: How Queer Artists Surface and Challenge Model Normativity](https://dl.acm.org/doi/10.1145/3715275.3732061). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (FAccT 2025).
 
-Blakeley H. Payne,\* **Jordan Taylor,\*** Katta Spiel, Casey Fiesler. (2025). [Building Solidarity Amid Hostility: Experiences of Fat People in Online Communities](https://dl.acm.org/doi/10.1145/3701186). Proceedings of the ACM on Human-Computer Interaction, GROUP (GROUP 2025). \*Co-First Author.
-
 **Jordan Taylor,\*** Ellen Simpson,* Anh-Ton Tran,* Jed Brubaker, Sarah Fox, Haiyi Zhu. (2024). [Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://dl.acm.org/doi/10.1145/3613904.3642494). Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2024). \*Co-First Author.
-
-**Jordan Taylor,** Amy Bruckman. (2024). [Mitigating Epistemic Injustice: The Online Construction of a Bisexual Culture](https://dl.acm.org/doi/10.1145/3648614). ACM Transactions on Computer-Human Interaction (TOCHI).
-
 
 Selected Extended Abstracts
 ------
+
+Harry H. Jiang, **Jordan Taylor,** William Agnew. (2026). [How Professional Visual Artists are Negotiating Generative AI in the Workplace](https://arxiv.org/abs/2603.04537). CHI 2026 Poster. (To Appear)
 
 Anh-Ton Tran, Annabel Rothschild, Kay Kender, Ekat Osipova, Brian Kinnee, **Jordan Taylor**, Louie Søs Meyer, Oliver L. Haimson, Ann Light, Carl Disalvo. (2024). [Making Trouble: Techniques for Queering Data and AI Systems](https://dl.acm.org/doi/abs/10.1145/3656156.3658393). DIS 2024 Workshop.
 
