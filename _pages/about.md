@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Jordan and I'm a PhD candidate in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I graduated with a B.S. and M.S. in Computer Science from Georgia Tech.
 
-My research focuses on how **queer communities and artists** creatively make use of and resist technologies, such as online communities and generative AI systems. I also draw on cultural studies and science & technology studies to examine dominant values embedded in technologies. My most recent research examines the cultural consequences of aesthetic evaluation.
+My research focuses on how **queer communities and artists** creatively make use of and resist technologies, such as online communities and generative AI systems. I also draw on cultural studies and science & technology studies to examine dominant values embedded in technologies. My most recent research examines the cultural consequences of aesthetic evaluation and the politics of taste.
 
 **Research Interests**: Critical HCI, Science & Technology Studies, Queer HCI, Responsible AI, Art, Social Computing
 
@@ -65,7 +65,7 @@ Selected Teaching
 | :------ | :--- | :--- | ---:|
 | Carnegie Mellon | HCI 05-618: Human-AI Interaction | Teaching Assistant | Spring 2025 |
 | Carnegie Mellon | HCI 05-610: User-Centered Research and Evaluation | Teaching Assistant | Fall 2023 |
-| Carnegie Mellon | CS 15-996: Intro to Justice, Equity, Diversity, and Inclusion in CS | Guest Lecture on Identity, Intersectionality, & Systemic Inequality | Spring 2023 |
+| Georgia Tech | CS 3600 - Introduction to Artificial Intelligence | Teaching Assistant | Spring 2020, Fall 2020, Spring 2021 |
 
 
 CV
