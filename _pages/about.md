@@ -20,6 +20,8 @@ Selected Publications
 
 **Jordan Taylor,** William Agnew, Maarten Sap, Sarah Fox, Haiyi Zhu. (2026). [The Algorithmic Gaze of Image Quality Assessment: An Audit and Trace Ethnography of the LAION-Aesthetics Predictor](https://drive.google.com/file/d/1WNA0U9-77mvLgHQ8cX8opWfCqNXLPsJH/view?usp=sharing). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (To Appear at FAccT 2026).
 
+**Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://drive.google.com/file/d/1a_ni1k93m-GNziXuslUfvRAN0QKFUzPa/view?usp=sharing). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (To Appear at CSCW 2026).
+
 Anna Kawakami, **Jordan Taylor,** Sarah Fox, Haiyi Zhu, Kenneth Holstein. (2026). [AI Failure Loops in Devalued Work: The Confluence of Overconfidence in AI and Underconfidence in Worker Expertise](https://doi.org/10.1177/20539517261424164). Big Data & Society.
 
 **Jordan Taylor,** Joel Mire, Franchesca Spektor, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2025). [Un-Straightening Generative AI: How Queer Artists Surface and Challenge Model Normativity](https://dl.acm.org/doi/10.1145/3715275.3732061). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (FAccT 2025).
@@ -29,7 +31,7 @@ Anna Kawakami, **Jordan Taylor,** Sarah Fox, Haiyi Zhu, Kenneth Holstein. (2026)
 Selected Extended Abstracts
 ------
 
-Harry H. Jiang, **Jordan Taylor,** William Agnew. (2026). [How Professional Visual Artists are Negotiating Generative AI in the Workplace](https://arxiv.org/abs/2603.04537). CHI 2026 Poster. (To Appear)
+Harry H. Jiang, **Jordan Taylor,** William Agnew. (2026). [How Professional Visual Artists are Negotiating Generative AI in the Workplace](https://arxiv.org/abs/2603.04537). CHI 2026 Poster.
 
 Anh-Ton Tran, Annabel Rothschild, Kay Kender, Ekat Osipova, Brian Kinnee, **Jordan Taylor**, Louie Søs Meyer, Oliver L. Haimson, Ann Light, Carl Disalvo. (2024). [Making Trouble: Techniques for Queering Data and AI Systems](https://dl.acm.org/doi/abs/10.1145/3656156.3658393). DIS 2024 Workshop.
 
