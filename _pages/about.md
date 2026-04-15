@@ -65,7 +65,7 @@ Selected Teaching
 | :------ | :--- | :--- | ---:|
 | Carnegie Mellon | HCI 05-618: Human-AI Interaction | Teaching Assistant | Spring 2025 |
 | Carnegie Mellon | HCI 05-610: User-Centered Research and Evaluation | Teaching Assistant | Fall 2023 |
-| Georgia Tech | CS 3600 - Introduction to Artificial Intelligence | Teaching Assistant | Spring 2020, Fall 2020, Spring 2021 |
+| Georgia Tech | CS 3600 - Introduction to Artificial Intelligence | Teaching Assistant | Spring 2021 <br> Fall 2020 <br> Spring 2020 |
 
 
 CV
