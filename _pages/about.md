@@ -20,7 +20,7 @@ Selected Publications
 
 **Jordan Taylor,** William Agnew, Maarten Sap, Sarah Fox, Haiyi Zhu. (2026). [The Algorithmic Gaze of Image Quality Assessment: An Audit and Trace Ethnography of the LAION-Aesthetics Predictor](https://drive.google.com/file/d/1WNA0U9-77mvLgHQ8cX8opWfCqNXLPsJH/view?usp=sharing). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (To Appear at FAccT 2026).
 
-**Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://drive.google.com/file/d/1a_ni1k93m-GNziXuslUfvRAN0QKFUzPa/view?usp=sharing). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (To Appear at CSCW 2026).
+**Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://arxiv.org/abs/2604.14266). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (To Appear at CSCW 2026).
 
 Anna Kawakami, **Jordan Taylor,** Sarah Fox, Haiyi Zhu, Kenneth Holstein. (2026). [AI Failure Loops in Devalued Work: The Confluence of Overconfidence in AI and Underconfidence in Worker Expertise](https://doi.org/10.1177/20539517261424164). Big Data & Society.
 
