@@ -18,7 +18,7 @@ My research focuses on how **queer communities and artists** creatively make use
 Selected Publications
 ------
 
-**Jordan Taylor,** William Agnew, Maarten Sap, Sarah Fox, Haiyi Zhu. (2026). [The Algorithmic Gaze of Image Quality Assessment: An Audit and Trace Ethnography of the LAION-Aesthetics Predictor](https://drive.google.com/file/d/1WNA0U9-77mvLgHQ8cX8opWfCqNXLPsJH/view?usp=sharing). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (To Appear at FAccT 2026).
+**Jordan Taylor,** William Agnew, Maarten Sap, Sarah Fox, Haiyi Zhu. (2026). [The Algorithmic Gaze of Image Quality Assessment: An Audit and Trace Ethnography of the LAION-Aesthetics Predictor](https://arxiv.org/abs/2601.09896). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (To Appear at FAccT 2026).
 
 **Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://arxiv.org/abs/2604.14266). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (To Appear at CSCW 2026).
 
@@ -74,4 +74,4 @@ CV
 ------
 
 
-Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1V0X4ohYH9phbsH04YXecEK2DHt-iSlzG/view?usp=sharing">CV</a> (last edited March 2026)
+Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1HfeGyiMujAIGvDsGimSp8o-a14ae-Zzl/view?usp=sharing">CV</a> (last edited April 2026)
