@@ -51,7 +51,7 @@ Magazine Articles
 Selected Press
 ------
 
-[The AI-inflected crisis artists are facing, in 4 charts](https://www.bloodinthemachine.com/p/the-ai-inflected-crisis-artists-are). (2026). Brian Merchant's Blood in the Machine.
+[The AI-inflected crisis artists are facing, in 4 charts](https://www.bloodinthemachine.com/p/the-ai-inflected-crisis-artists-are). (2026). Brian Merchant.
 
 [ACM Celebrates Pride Month 2025](https://www.acm.org/diversity-inclusion/pride-month-2025). (2025). Association for Computing Machinery.
 
