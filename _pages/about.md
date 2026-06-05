@@ -51,11 +51,11 @@ Magazine Articles
 Selected Press
 ------
 
-[The AI-inflected crisis artists are facing, in 4 charts](https://www.bloodinthemachine.com/p/the-ai-inflected-crisis-artists-are). (2026). Brian Merchant.
+[Celebrate Pride Month 2026 with ACM](https://www.acm.org/diversity-inclusion/pride-month-2026). (2026). Association for Computing Machinery.
+
+[The AI-inflected Crisis Artists Are Facing, in 4 Charts](https://www.bloodinthemachine.com/p/the-ai-inflected-crisis-artists-are). (2026). Brian Merchant.
 
 [ACM Celebrates Pride Month 2025](https://www.acm.org/diversity-inclusion/pride-month-2025). (2025). Association for Computing Machinery.
-
-[CMU Technologists Look to a More Inclusive Future](https://www.cs.cmu.edu/news/2024/inclusive-ai). (2024). Carnegie Mellon University School of Computer Science News.
 
 [How Should AI Depict Marginalized Communities?](https://www.cmu.edu/news/stories/archives/2024/june/how-should-ai-depict-marginalized-communities-cmu-technologists-look-to-a-more-inclusive-future ) (2024). Carnegie Mellon University Newsletter (The Piper).
 
@@ -76,4 +76,4 @@ CV
 ------
 
 
-Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1HfeGyiMujAIGvDsGimSp8o-a14ae-Zzl/view?usp=sharing">CV</a> (last edited April 2026)
+Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1KN-KFrKlXoWx8kSiJz8aTWpqoxPE33fz/view?usp=sharing">CV</a> (last edited June 2026)
