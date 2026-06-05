@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jordan and I'm a PhD candidate in Human-Computer Interaction at Carnegie Mellon advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I graduated with a B.S. and M.S. in Computer Science from Georgia Tech.
+I am a Ph.D. Candidate in Human-Computer Interaction at Carnegie Mellon University advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I also hold M.S. and B.S. degrees in computer science from the Georgia Institute of Technology.
 
-My research focuses on how **queer communities and artists** creatively make use of and resist technologies, such as online communities and generative AI systems. I also draw on cultural studies and science & technology studies to examine dominant values embedded in technologies. My most recent research examines the cultural consequences of aesthetic evaluation and the politics of taste.
+My research examines how **queer communities and artists** navigate, shape, and are shaped by sociotechnical systems, including generative AI and social media. In doing so, I often investigates and contests dominant norms embedded in the design of technologies. My most recent research examines the [cultural consequences of aesthetic evaluation](https://arxiv.org/abs/2601.09896) and [the future of artistic labor](https://doi.org/10.1145/3772363.3799003).
 
-**Research Interests**: Critical HCI, Science & Technology Studies, Queer HCI, Responsible AI, Art, Social Computing
+**Research Interests**: Human-Computer Interaction, Critical AI Studies, Science & Technology Studies, Queer Computing
 
 
 Selected Publications
@@ -31,7 +31,7 @@ Anna Kawakami, **Jordan Taylor,** Sarah Fox, Haiyi Zhu, Kenneth Holstein. (2026)
 Selected Extended Abstracts
 ------
 
-Harry H. Jiang, **Jordan Taylor,** William Agnew. (2026). [How Professional Visual Artists are Negotiating Generative AI in the Workplace](https://arxiv.org/abs/2603.04537). CHI 2026 Poster.
+Harry H. Jiang, **Jordan Taylor,** William Agnew. (2026). [How Professional Visual Artists are Negotiating Generative AI in the Workplace](https://doi.org/10.1145/3772363.3799003). CHI 2026 Poster.
 
 Anh-Ton Tran, Annabel Rothschild, Kay Kender, Ekat Osipova, Brian Kinnee, **Jordan Taylor**, Louie Søs Meyer, Oliver L. Haimson, Ann Light, Carl Disalvo. (2024). [Making Trouble: Techniques for Queering Data and AI Systems](https://dl.acm.org/doi/abs/10.1145/3656156.3658393). DIS 2024 Workshop.
 
