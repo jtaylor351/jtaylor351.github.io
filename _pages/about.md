@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Human-Computer Interaction at Carnegie Mellon University advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). I also hold M.S. and B.S. degrees in computer science from the Georgia Institute of Technology.
+I am a Ph.D. Candidate in Human-Computer Interaction at Carnegie Mellon University advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). In Fall 2026, I will be joining the University of Michigan's School of Information as a Postdoctoral Research Fellow to work with [Nazanin Andalibi](https://www.nazaninandalibi.net). I also hold M.S. and B.S. degrees in computer science from the Georgia Institute of Technology.
 
 My research examines how **queer communities and artists** navigate, shape, and are shaped by sociotechnical systems, including generative AI and social media. In doing so, I also investigate and contest dominant norms embedded in the design of technologies. My most recent research examines the [cultural consequences of aesthetic evaluation](https://arxiv.org/abs/2601.09896) and [the future of artistic labor](https://doi.org/10.1145/3772363.3799003).
 
