@@ -76,4 +76,4 @@ CV
 ------
 
 
-Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1KN-KFrKlXoWx8kSiJz8aTWpqoxPE33fz/view?usp=sharing">CV</a> (last edited June 2026)
+Updated <a onclick="gtag('event', 'view_cv')" href="https://drive.google.com/file/d/1HD8eyg5iU8DrgyTSO8kUIUrGJ10e8eDO/view?usp=sharing">CV</a> (last edited July 2026)
