@@ -18,9 +18,9 @@ My research examines how **queer communities and artists** navigate, shape, and 
 Selected Publications
 ------
 
-**Jordan Taylor,** William Agnew, Maarten Sap, Sarah Fox, Haiyi Zhu. (2026). [The Algorithmic Gaze of Image Quality Assessment: An Audit and Trace Ethnography of the LAION-Aesthetics Predictor](https://arxiv.org/abs/2601.09896). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (To Appear at FAccT 2026).
-
 **Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://arxiv.org/abs/2604.14266). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (To Appear at CSCW 2026).
+
+**Jordan Taylor,** William Agnew, Maarten Sap, Sarah Fox, Haiyi Zhu. (2026). [The Algorithmic Gaze of Image Quality Assessment: An Audit and Trace Ethnography of the LAION-Aesthetics Predictor](https://dl.acm.org/doi/10.1145/3805689.3806462). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (FAccT 2026).
 
 Anna Kawakami, **Jordan Taylor,** Sarah Fox, Haiyi Zhu, Kenneth Holstein. (2026). [AI Failure Loops in Devalued Work: The Confluence of Overconfidence in AI and Underconfidence in Worker Expertise](https://doi.org/10.1177/20539517261424164). Big Data & Society.
 
@@ -35,10 +35,7 @@ Harry H. Jiang, **Jordan Taylor,** William Agnew. (2026). [How Professional Visu
 
 Anh-Ton Tran, Annabel Rothschild, Kay Kender, Ekat Osipova, Brian Kinnee, **Jordan Taylor**, Louie Søs Meyer, Oliver L. Haimson, Ann Light, Carl Disalvo. (2024). [Making Trouble: Techniques for Queering Data and AI Systems](https://dl.acm.org/doi/abs/10.1145/3656156.3658393). DIS 2024 Workshop.
 
-Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). [How to Ethically Engage Fat People in HCI Research](https://dl.acm.org/doi/10.1145/3584931.3606987). CSCW 2023 Poster. **(Best Poster Award)**
-
-Logan Stapleton, **Jordan Taylor**, Sarah Fox, Tongshuang Wu, Haiyi Zhu. (2023). [Seeing Seeds Beyond Weeds: Green Teaming Generative AI for Beneficial Uses](https://arxiv.org/pdf/2306.03097.pdf). Shared at ICML Workshop on Challenges in Deployable Generative AI.
-
+Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). [How to Ethically Engage Fat People in HCI Research](https://dl.acm.org/doi/10.1145/3584931.3606987). CSCW 2023 Poster. **(Best Poster 🏆)**
 
 Magazine Articles
 ------
@@ -56,8 +53,6 @@ Selected Press
 [The AI-inflected Crisis Artists Are Facing, in 4 Charts](https://www.bloodinthemachine.com/p/the-ai-inflected-crisis-artists-are). (2026). Brian Merchant.
 
 [ACM Celebrates Pride Month 2025](https://www.acm.org/diversity-inclusion/pride-month-2025). (2025). Association for Computing Machinery.
-
-[How Should AI Depict Marginalized Communities?](https://www.cmu.edu/news/stories/archives/2024/june/how-should-ai-depict-marginalized-communities-cmu-technologists-look-to-a-more-inclusive-future ) (2024). Carnegie Mellon University Newsletter (The Piper).
 
 [Louisiana Law Requiring Proof of ID for Porn Site Access Has Privacy Advocates Worried](https://www.marketplace.org/shows/marketplace-tech/louisiana-law-requiring-proof-of-id-for-porn-site-access-has-privacy-advocates-worried/). (2023). Marketplace Tech. 
 
