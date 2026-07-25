@@ -37,14 +37,6 @@ Anh-Ton Tran, Annabel Rothschild, Kay Kender, Ekat Osipova, Brian Kinnee, **Jord
 
 Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). [How to Ethically Engage Fat People in HCI Research](https://dl.acm.org/doi/10.1145/3584931.3606987). CSCW 2023 Poster. **(Best Poster 🏆)**
 
-Magazine Articles
-------
-
-**Jordan Taylor**, Adinawa Adjagbodjou. [DEI in Computing: Centering the Margins](https://dl.acm.org/doi/10.1145/3538534). (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4.
-
-**Jordan Taylor**. [Decoloniality in Computing: An Interview with Dipto Das](https://dl.acm.org/doi/10.1145/3538548). (2022). XRDS: Crossroads, The ACM Magazine for Students 28, no. 4.
-
-
 Selected Press
 ------
 
