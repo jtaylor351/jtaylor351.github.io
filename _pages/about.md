@@ -40,6 +40,8 @@ Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). [How t
 Selected Press
 ------
 
+[What makes art human? Inside animation's AI reckoning](https://www.kpbs.org/podcasts/the-finest/what-makes-art-human-inside-animations-ai-reckoning). (2026). National Public Radio.
+
 [Celebrate Pride Month 2026 with ACM](https://www.acm.org/diversity-inclusion/pride-month-2026). (2026). Association for Computing Machinery.
 
 [The AI-inflected Crisis Artists Are Facing, in 4 Charts](https://www.bloodinthemachine.com/p/the-ai-inflected-crisis-artists-are). (2026). Brian Merchant.
