@@ -18,7 +18,7 @@ My research examines how **queer communities and artists** navigate, shape, and 
 Selected Publications
 ------
 
-**Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://arxiv.org/abs/2604.14266). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (To Appear at CSCW 2026).
+**Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://arxiv.org/abs/2604.14266). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (CSCW 2026) **\[Honorable Mention 🏆\]**
 
 **Jordan Taylor,** William Agnew, Maarten Sap, Sarah Fox, Haiyi Zhu. (2026). [The Algorithmic Gaze of Image Quality Assessment: An Audit and Trace Ethnography of the LAION-Aesthetics Predictor](https://dl.acm.org/doi/10.1145/3805689.3806462). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (FAccT 2026).
 
@@ -33,7 +33,7 @@ Harry H. Jiang, **Jordan Taylor,** William Agnew. (2026). [How Professional Visu
 
 Anh-Ton Tran, Annabel Rothschild, Kay Kender, Ekat Osipova, Brian Kinnee, **Jordan Taylor**, Louie Søs Meyer, Oliver L. Haimson, Ann Light, Carl Disalvo. (2024). [Making Trouble: Techniques for Queering Data and AI Systems](https://dl.acm.org/doi/abs/10.1145/3656156.3658393). DIS 2024 Workshop.
 
-Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). [How to Ethically Engage Fat People in HCI Research](https://dl.acm.org/doi/10.1145/3584931.3606987). CSCW 2023 Poster. **(Best Poster 🏆)**
+Blakeley H. Payne, **Jordan Taylor**, Katta Spiel, Casey Fiesler. (2023). [How to Ethically Engage Fat People in HCI Research](https://dl.acm.org/doi/10.1145/3584931.3606987). CSCW 2023 Poster. **\[Best Poster 🏆\]**
 
 Selected Press
 ------
