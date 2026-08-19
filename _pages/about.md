@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Human-Computer Interaction at Carnegie Mellon University advised by [Haiyi Zhu](https://haiyizhu.com) and [Sarah Fox](https://www.sarahfox.info/). In Fall 2026, I will be joining the University of Michigan's School of Information as a Postdoctoral Research Fellow to work with [Nazanin Andalibi](https://www.nazaninandalibi.net). I also hold M.S. and B.S. degrees in computer science from the Georgia Institute of Technology.
+I am a Postdoctoral Research Fellow at the University of Michigan’s School of Information working with [Nazanin Andalibi](https://www.nazaninandalibi.net). I hold a Ph.D. in Human-Computer Interaction from Carnegie Mellon University as well as M.S. and B.S. degrees in Computer Science from the Georgia Institute of Technology.
 
-My research examines how **queer communities and artists** navigate, shape, and are shaped by sociotechnical systems, including generative AI and social media. In doing so, I also investigate and contest dominant norms embedded in the design of technologies. My most recent research examines the [cultural consequences of aesthetic evaluation](https://arxiv.org/abs/2601.09896) and [the future of artistic labor](https://doi.org/10.1145/3772363.3799003).
+My research examines how **Artists and LGBTQ+ Communities** navigate, shape, and are shaped by sociotechnical systems, including generative AI and social media. In doing so, I study and question dominant values embedded in the design of technologies. My most recent research examines the [cultural consequences of aesthetic evaluation](https://arxiv.org/abs/2601.09896) and [the future of artistic labor](https://doi.org/10.1145/3772363.3799003).
 
 **Research Interests**: Human-Computer Interaction, Critical AI Studies, Science & Technology Studies, Queer Computing
 
@@ -18,7 +18,7 @@ My research examines how **queer communities and artists** navigate, shape, and 
 Selected Publications
 ------
 
-**Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://arxiv.org/abs/2604.14266). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (CSCW 2026) **\[Honorable Mention 🏆\]**
+**Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://arxiv.org/abs/2604.14266). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (To Appear at CSCW 2026). **\[Honorable Mention 🏆\]**
 
 **Jordan Taylor,** William Agnew, Maarten Sap, Sarah Fox, Haiyi Zhu. (2026). [The Algorithmic Gaze of Image Quality Assessment: An Audit and Trace Ethnography of the LAION-Aesthetics Predictor](https://dl.acm.org/doi/10.1145/3805689.3806462). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (FAccT 2026).
 
