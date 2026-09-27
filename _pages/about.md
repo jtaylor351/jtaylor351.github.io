@@ -18,7 +18,7 @@ My research examines how **Artists and LGBTQ+ Communities** navigate, shape, and
 Selected Publications
 ------
 
-**Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://arxiv.org/abs/2604.14266). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (To Appear at CSCW 2026). **\[Honorable Mention 🏆\]**
+**Jordan Taylor,** Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah Fox. (2026). ["I Just Don't Want My Work Being Fed Into The AI Blender:" Queer Artists on Refusing and Resisting Generative AI](https://dl.acm.org/doi/10.1145/3816950). Proceedings of the ACM CSCW Conference on Computer-Supported Cooperative Work and Social Media (CSCW 2026). **\[Honorable Mention 🏆\]**
 
 **Jordan Taylor,** William Agnew, Maarten Sap, Sarah Fox, Haiyi Zhu. (2026). [The Algorithmic Gaze of Image Quality Assessment: An Audit and Trace Ethnography of the LAION-Aesthetics Predictor](https://dl.acm.org/doi/10.1145/3805689.3806462). Proceedings of the ACM FAccT Conference on Fairness, Accountability and Transparency (FAccT 2026).
 
