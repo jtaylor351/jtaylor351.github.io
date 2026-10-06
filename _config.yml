@@ -63,7 +63,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "profile.jpg" # Open Graph/Twitter default site image
+og_image                 :  "new_headshort_umsi.JPG" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Jordan Taylor <br/> <br/>"
-  avatar           : "profile.jpg"
+  avatar           : "new_headshort_umsi.JPG"
   bio              : 
   location         :  
   employer         :
